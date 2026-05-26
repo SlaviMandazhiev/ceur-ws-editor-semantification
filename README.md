@@ -62,7 +62,7 @@ Install Ollama from [ollama.com](https://ollama.com) and pull a model with `olla
 ```env
 LLM_PROVIDER=openai
 LLM_MODEL=gpt-4o-mini
-OPENAI_API_KEY=sk-...
+OPENAI_API_KEY=
 ```
 
 **Anthropic:**
