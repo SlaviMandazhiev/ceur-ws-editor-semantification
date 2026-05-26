@@ -13,7 +13,8 @@ This pipeline extracts that metadata, validates it, and uploads it to **CEUR-DEV
 ## Pipeline Architecture
 
 The pipeline is composed of four sequential modules:
-
+| Module | Script | Description |
+|--------|--------|-------------|
 | 1. Editor Information Extraction | `editor_extractor.py` | Fetches CEUR-WS volume HTML and uses an LLM to extract editor names, affiliations, and series ordinals into JSON |
 | 2. Editor Signature Creation | `editor_operations.py` | Validates extracted data with Pydantic, checks ORCID IDs against the public ORCID API, and uploads editor statements to CEUR-DEV |
 | 3. Affiliation Semantification | `affiliation_handling.py` | Uses an LLM to isolate the main organisation from an affiliation string, looks it up on Wikidata, validates it, imports it into CEUR-DEV, and links it to the editor statement |
