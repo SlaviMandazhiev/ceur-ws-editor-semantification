@@ -1,0 +1,15 @@
+# Core
+langchain-core>=0.3
+langchain-ollama>=0.2
+requests>=2.31
+pydantic>=2.0
+beautifulsoup4>=4.12
+SPARQLWrapper>=2.0
+python-dotenv>=1.0
+
+# Optional LLM providers — install only the one you need
+# pip install langchain-openai
+# pip install langchain-anthropic
+
+# Testing
+pytest>=8.0

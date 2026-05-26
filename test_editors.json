@@ -1,0 +1,122 @@
+[
+    {
+        "object_named_as": "Beth Terry",
+        "scholar_id": "somevalue",
+        "series_ordinal": 5,
+        "orcid_id": "7858-5970-6644-2594",
+        "affiliation_string": [
+            "Hawkins, Brown and Mcintyre"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3800"
+    },
+    {
+        "object_named_as": "Elizabeth Nolan",
+        "scholar_id": "somevalue",
+        "series_ordinal": 5,
+        "orcid_id": "3122-6603-9137-2661",
+        "affiliation_string": [
+            "Nguyen-Young"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3743"
+    },
+    {
+        "object_named_as": "Stacy Moss",
+        "scholar_id": "somevalue",
+        "series_ordinal": 2,
+        "orcid_id": "9646-1949-7569-3712",
+        "affiliation_string": [
+            "Ayala, Johnson and Davis"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3734"
+    },
+    {
+        "object_named_as": "Adam Lamb",
+        "scholar_id": "somevalue",
+        "series_ordinal": 1,
+        "orcid_id": "6890-6847-5921-6380",
+        "affiliation_string": [
+            "Olson, Rowland and Schwartz"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3730"
+    },
+    {
+        "object_named_as": "April Holloway",
+        "scholar_id": "somevalue",
+        "series_ordinal": 2,
+        "orcid_id": "8072-3360-8147-2027",
+        "affiliation_string": [
+            "Lynch LLC"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3760"
+    },
+    {
+        "object_named_as": "Travis Garcia",
+        "scholar_id": "somevalue",
+        "series_ordinal": 5,
+        "orcid_id": "2292-2403-3623-8107",
+        "affiliation_string": [
+            "Rivera Inc"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3717"
+    },
+    {
+        "object_named_as": "Kathryn Jenkins",
+        "scholar_id": "somevalue",
+        "series_ordinal": 3,
+        "orcid_id": "6115-5668-2660-7962",
+        "affiliation_string": [
+            "Gordon, Thomas and Russell"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3744"
+    },
+    {
+        "object_named_as": "Nicholas Perez",
+        "scholar_id": "somevalue",
+        "series_ordinal": 2,
+        "orcid_id": "6222-9926-3882-5961",
+        "affiliation_string": [
+            "Freeman Group"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3709"
+    },
+    {
+        "object_named_as": "Tammy Wilson",
+        "scholar_id": "somevalue",
+        "series_ordinal": 4,
+        "orcid_id": "5896-5770-1961-4123",
+        "affiliation_string": [
+            "James Group"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3731"
+    },
+    {
+        "object_named_as": "John Jackson",
+        "scholar_id": "somevalue",
+        "series_ordinal": 5,
+        "orcid_id": "7142-6524-7092-9392",
+        "affiliation_string": [
+            "Jackson, Ross and Conrad"
+        ],
+        "affiliation": [],
+        "dblp_author_id": "string",
+        "volume_number": "3769"
+    }
+]

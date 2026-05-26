@@ -1,0 +1,53 @@
+{
+    "last-modified-date": null,
+    "name": {
+        "created-date": {
+            "value": 1652881036798
+        },
+        "last-modified-date": {
+            "value": 1652881036798
+        },
+        "given-names": {
+            "value": "Tim"
+        },
+        "family-name": {
+            "value": "Holzheim"
+        },
+        "credit-name": null,
+        "source": null,
+        "visibility": "public",
+        "path": "0000-0003-2533-6363"
+    },
+    "other-names": {
+        "last-modified-date": null,
+        "other-name": [],
+        "path": "/0000-0003-2533-6363/other-names"
+    },
+    "biography": null,
+    "researcher-urls": {
+        "last-modified-date": null,
+        "researcher-url": [],
+        "path": "/0000-0003-2533-6363/researcher-urls"
+    },
+    "emails": {
+        "last-modified-date": null,
+        "email": [],
+        "path": "/0000-0003-2533-6363/email"
+    },
+    "addresses": {
+        "last-modified-date": null,
+        "address": [],
+        "path": "/0000-0003-2533-6363/address"
+    },
+    "keywords": {
+        "last-modified-date": null,
+        "keyword": [],
+        "path": "/0000-0003-2533-6363/keywords"
+    },
+    "external-identifiers": {
+        "last-modified-date": null,
+        "external-identifier": [],
+        "path": "/0000-0003-2533-6363/external-identifiers"
+    },
+    "path": "/0000-0003-2533-6363/person"
+}
