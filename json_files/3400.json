@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Hadi Banaee",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Örebro, Sweden"
+    },
+    {
+        "object_named_as": "Amy Loutfi",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Örebro, Sweden"
+    },
+    {
+        "object_named_as": "Alessandro Saffiotti",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Örebro, Sweden"
+    },
+    {
+        "object_named_as": "Antonio Lieto",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Turin, Italy ** ICAR-CNR, Italy"
+    }
+]

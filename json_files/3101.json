@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Stefan Wolfgang Pickl",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "* Bundeswehr University Munich, Germany"
+    },
+    {
+        "object_named_as": "Volodymyr Lytvynenko",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "** Kherson National Technical University, Ukraine "
+    },
+    {
+        "object_named_as": "Maryna Zharikova",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "* Bundeswehr University Munich, Germany"
+    },
+    {
+        "object_named_as": "Volodymyr Sherstjuk",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "** Kherson National Technical University, Ukraine "
+    }
+]

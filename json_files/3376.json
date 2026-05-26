@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Natanael Arndt",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "eccenca GmbH, Hainstraße 8, 04109 Leipzig, Germany"
+    },
+    {
+        "object_named_as": "Sabine Gründer-Fahrer",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Applied Informatics, Goerdelerring 9, 04109 Leipzig, Germany"
+    },
+    {
+        "object_named_as": "Julia Holze",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Applied Informatics, Goerdelerring 9, 04109 Leipzig, Germany"
+    },
+    {
+        "object_named_as": "Michael Martin",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Applied Informatics, Goerdelerring 9, 04109 Leipzig, Germany"
+    },
+    {
+        "object_named_as": "Sebastian Tramp",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "eccenca GmbH, Hainstraße 8, 04109 Leipzig, Germany"
+    }
+]

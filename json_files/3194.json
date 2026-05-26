@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Giuseppe Amato",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Information Science and Technologies 'Alessandro Faedo', National Research Council, 56124 Pisa, Italy"
+    },
+    {
+        "object_named_as": "Valentina Bartalesi",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Department of Information Engineering, University of Brescia, 25123 Brescia, Italy "
+    },
+    {
+        "object_named_as": "Devis Bianchini",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Department of Information Engineering, University of Brescia, 25123 Brescia, Italy "
+    },
+    {
+        "object_named_as": "Claudio Gennaro",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Information Science and Technologies 'Alessandro Faedo', National Research Council, 56124 Pisa, Italy"
+    },
+    {
+        "object_named_as": "Riccardo Torlone",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Department of Engineering, Roma Tre University, 00146 Roma, Italy "
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Itaru Kitahara",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Tsukuba, Japan"
+    },
+    {
+        "object_named_as": "Liwei Chan",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "National Yang Ming Chiao Tung University, Taiwan"
+    },
+    {
+        "object_named_as": "Hideaki Uchiyama",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Nara Institute of Science and Technology, Japan"
+    },
+    {
+        "object_named_as": "Hsin-Ruey (Ray) Tsai",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "National Chengchi University, Taiwan"
+    },
+    {
+        "object_named_as": "Yuichiro Fujimoto",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Nara Institute of Science and Technology, Japan"
+    }
+]

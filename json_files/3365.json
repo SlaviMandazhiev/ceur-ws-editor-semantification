@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Alessia Bardi",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "National Research Council (CNR), Pisa, Italy"
+    },
+    {
+        "object_named_as": "Alex Falcon",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Udine, Department of Mathematics and Computer Science, Udine, Italy"
+    },
+    {
+        "object_named_as": "Stefano Ferilli",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari, Department of informatics, Bari, Italy"
+    },
+    {
+        "object_named_as": "Stefano Marchesin",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Padua, Department of Information Engineering, Padua, Italy"
+    },
+    {
+        "object_named_as": "Domenico Redavid",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari, Department of informatics, Bari, Italy"
+    }
+]

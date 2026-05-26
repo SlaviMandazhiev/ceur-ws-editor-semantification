@@ -1,0 +1,56 @@
+[
+    {
+        "object_named_as": "Aleksandr Dodonov",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Information Recording of National Academy of Sciences of Ukraine"
+    },
+    {
+        "object_named_as": "Dmitry Lande",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Information Recording of National Academy of Sciences of Ukraine"
+    },
+    {
+        "object_named_as": "Nikolai Stoianov",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Bulgarian Defence Institute “Professor Tsvetan Lazarov”"
+    },
+    {
+        "object_named_as": "Vitaliy Tsyganok",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Information Recording of National Academy of Sciences of Ukraine"
+    },
+    {
+        "object_named_as": "Sándor Bozóki",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Computer and Automation Research Institute Hungarian Academy of Sciences"
+    },
+    {
+        "object_named_as": "Stan Lipovetsky",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "GfK Custom Research North America"
+    },
+    {
+        "object_named_as": "Andrei Snarskii",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\""
+    },
+    {
+        "object_named_as": "Andriy Olenko",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "La Trobe University"
+    },
+    {
+        "object_named_as": "Oleg Chertov",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\""
+    }
+]

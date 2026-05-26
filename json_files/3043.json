@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "David Georg Reichelt",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universität Leipzig, University Computing Centre, Research and Development"
+    },
+    {
+        "object_named_as": "Richard Müller",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "ipoque GmbH"
+    },
+    {
+        "object_named_as": "Steffen Becker",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universität Stuttgart, Institut für Softwaretechnologie"
+    },
+    {
+        "object_named_as": "Wilhelm Hasselbring",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Christian-Albrechts-Universität zu Kiel, Software Engineering Group"
+    },
+    {
+        "object_named_as": "André van Hoorn",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Hamburg, Department of Informatics"
+    },
+    {
+        "object_named_as": "Samuel Kounev",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Julius-Maximilians-Universität Würzburg, Department of Computer Science"
+    },
+    {
+        "object_named_as": "Anne Koziolek",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Karlsruher Institut für Technologie, Institute for Program Structures and Data Organization"
+    },
+    {
+        "object_named_as": "Ralf Reussner",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "FZI Forschungszentrum Informatik"
+    }
+]

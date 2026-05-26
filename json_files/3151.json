@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Agnès Braud",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "ICube, Université de Strasbourg - CNRS, France"
+    },
+    {
+        "object_named_as": "Xavier Dolques",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "ICube, Université de Strasbourg - CNRS, France"
+    },
+    {
+        "object_named_as": "Rokia Missaoui",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "LARIM, Université du Québec en Outaouais, Canada"
+    }
+]

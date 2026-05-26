@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Andrea Vázquez Ingelmo",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Salamanca, Department of Computer Science and Automatics"
+    },
+    {
+        "object_named_as": "Yannis Dimitriadis",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Valladolid, Department of Signal Theory, Communications and Telematics Engineering"
+    },
+    {
+        "object_named_as": "Alejandra Martínez Monés",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Valladolid, Departament of Computer Science"
+    },
+    {
+        "object_named_as": "Francisco José García Peñalvo",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Salamanca, Department of Computer Science and Automatics"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Angeliki Antoniou",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of West Attica, Greece."
+    },
+    {
+        "object_named_as": "Berardina De Carolis",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari \"Aldo Moro\", Italy."
+    },
+    {
+        "object_named_as": "Tsvi Kuflik",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "The University of Haifa, Israel."
+    },
+    {
+        "object_named_as": "Antonio Origlia",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Naples \"Federico II\", Italy."
+    },
+    {
+        "object_named_as": "George E. Raptis",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Human Opsis, Greece."
+    },
+    {
+        "object_named_as": "Cristina Gena",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Torino, Italy."
+    }
+]

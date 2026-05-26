@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Ricardo Perez-Castillo",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Facultad de Ciencias Sociales de Talavera de la Reina, University of Castilla-La Mancha"
+    },
+    {
+        "object_named_as": "Manuel A. Serrano",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "aQuantum by Alarcos Research Group, University of Castilla-La Mancha"
+    },
+    {
+        "object_named_as": "Mario Piattini",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "aQuantum by Alarcos Research Group, University of Castilla-La Mancha"
+    }
+]

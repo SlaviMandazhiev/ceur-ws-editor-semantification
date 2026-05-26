@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Andrea Bellucci",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Carlos III de Madrid, Dept. of Computer Science Avda. de la Universidad 30, 28911, Leganés (Madrid), Spain"
+    },
+    {
+        "object_named_as": "Luigi De Russis",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Torino, Italy "
+    },
+    {
+        "object_named_as": "Paloma Diaz",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Carlos III de Madrid,"
+    },
+    {
+        "object_named_as": "Anders Mørch",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Oslo, Gaustadalléen 21, Oslo Research park, 0349, Oslo, Norway "
+    },
+    {
+        "object_named_as": "Daniela Fogli",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Università di Brescia, Via Branze 38, 25123 Brescia, Italy "
+    },
+    {
+        "object_named_as": "Fabio Paternò",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "ISTI-CNR, Via Moruzzi 1, 56124, Pisa, Italy "
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "object_named_as": "Angel Daza",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "VU University Amsterdam, Faculty of Humanities, Amsterdam, the Netherlands"
+    },
+    {
+        "object_named_as": "Antske Fokkens",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Eindhoven University of Technology"
+    },
+    {
+        "object_named_as": "Petya Osenova",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Bulgarian Academy of Sciences"
+    },
+    {
+        "object_named_as": "Kiril Simov",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Bulgarian Academy of Sciences"
+    },
+    {
+        "object_named_as": "Alexander Popov",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Bulgarian Academy of Sciences"
+    },
+    {
+        "object_named_as": "Paul Arthur",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Edith Cowan University"
+    },
+    {
+        "object_named_as": "Thierry Declerck",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Deutsches Forschungszentrum für Künstliche Intelligenz, Language and Technology Lab, Saarbrücken, Germany"
+    },
+    {
+        "object_named_as": "Ronald Sluijter",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Huygens ING, Research Institute of History and Culture, The Hague, the Netherlands"
+    },
+    {
+        "object_named_as": "Serge ter Braake",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "Stichting UvO"
+    },
+    {
+        "object_named_as": "Eveline Wandl-Vogt",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "Austrian Academy of Sciences, Ars Electronica Research Institute knowledge for humanity"
+    }
+]

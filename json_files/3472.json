@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Oana Cocarascu",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "King's College London, Department of Informatics, London, United Kingdom"
+    },
+    {
+        "object_named_as": "Sylvie Doutre",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Université Toulouse Capitole, IRIT, Toulouse, France "
+    },
+    {
+        "object_named_as": "Jean-Guy Mailly",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Université Paris Cité, LIPADE, F-75006 Paris, France "
+    },
+    {
+        "object_named_as": "Antonio Rago",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Imperial College London, Department of Computing, London, United Kingdom"
+    }
+]

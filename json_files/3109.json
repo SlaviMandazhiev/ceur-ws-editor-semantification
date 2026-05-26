@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Anatoliy Tryhuba",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Lviv National Agrarian University, Dubliany, Ukraine"
+    },
+    {
+        "object_named_as": "Vadym Ptashnyk",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Lviv National Agrarian University, Dubliany, Ukraine"
+    },
+    {
+        "object_named_as": "Anatoliy Sachenko",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "West Ukrainian National University, Ternopil, Ukraine"
+    },
+    {
+        "object_named_as": "Nataliia Kunanets",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Lviv Polytechnic National University, Lviv, Ukraine"
+    },
+    {
+        "object_named_as": "Erdal Kilic",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Ondokuz Mayis University, Samsun, Turkey"
+    },
+    {
+        "object_named_as": "Andrzej Handkiewicz",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Poznan University of Technology, Poznan, Poland"
+    }
+]

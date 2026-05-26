@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Sneha Singhania",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Max Planck Institute for Informatics, Saarbrücken, Germany"
+    },
+    {
+        "object_named_as": "Tuan-Phong Nguyen",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Max Planck Institute for Informatics, Saarbrücken, Germany"
+    },
+    {
+        "object_named_as": "Simon Razniewski",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Max Planck Institute for Informatics, Saarbrücken, Germany"
+    }
+]

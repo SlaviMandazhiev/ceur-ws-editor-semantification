@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Mesut Kaya",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Aalborg University Copenhagen, Department of Communication and Psychology, Faculty of Humanities, Copenhagen, Denmark"
+    },
+    {
+        "object_named_as": "Toine Bogers",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "IT University of Copenhagen, Computer Science Department, Copenhagen, Denmark"
+    },
+    {
+        "object_named_as": "David Graus",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Randstad, Randstad Groep Nederland, Diemen, The Netherlands "
+    },
+    {
+        "object_named_as": "Chris Johnson",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Indeed, USA "
+    },
+    {
+        "object_named_as": "Jens-Joris Decorte",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "TechWolf, Ghent, Belgium "
+    }
+]

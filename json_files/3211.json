@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Sebastian Link",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "The University of Auckland, School of Computer Science"
+    },
+    {
+        "object_named_as": "Iris Reinhartz-Berger",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Haifa, Information Systems Department"
+    },
+    {
+        "object_named_as": "Jelena Zdravkovic",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Stockholm University, Department of Computer and Systems Sciences"
+    },
+    {
+        "object_named_as": "Dominik Bork",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "TU Wien, Business Informatics Group"
+    },
+    {
+        "object_named_as": "Srinath Srinivasa",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "International Institute of Information Technology Bangalore, Web Science Lab"
+    }
+]

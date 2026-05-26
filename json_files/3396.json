@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Nina Khairova",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Umeå University, Sweden"
+    },
+    {
+        "object_named_as": "Thierry Hamon",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Institut Galilée - Univ. Sorbonne Paris Nord, France"
+    },
+    {
+        "object_named_as": "Natalia Grabar",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Lille, France"
+    },
+    {
+        "object_named_as": "Yevhen Burov",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Lviv Polytechnic National University, Ukraine"
+    }
+]

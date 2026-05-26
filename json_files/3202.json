@@ -1,0 +1,86 @@
+[
+    {
+        "object_named_as": "Manuel Montes-y-Gómez",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Instituto Nacional de Astrofísica, Óptica y Electrónica,"
+    },
+    {
+        "object_named_as": "Julio Gonzalo",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Nacional de Educación a Distancia,"
+    },
+    {
+        "object_named_as": "Francisco Rangel",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Symanto Research, Nuremberg,"
+    },
+    {
+        "object_named_as": "Marco Casavantes",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California,"
+    },
+    {
+        "object_named_as": "Miguel Ángel Álvarez-Carmona",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California,"
+    },
+    {
+        "object_named_as": "Gemma Bel-Enguix",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "CLiC, UBICS, Universitat de Barcelona,"
+    },
+    {
+        "object_named_as": "Hugo Jair Escalante",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Instituto Nacional de Astrofísica, Óptica y Electrónica,"
+    },
+    {
+        "object_named_as": "Larissa Freitas",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Center for Technological Development (CDTec), Federal University of Pelotas (UFPel), Pelotas, RS,"
+    },
+    {
+        "object_named_as": "Antonio Miranda-Escalada",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "Barcelona Supercomputing Center,"
+    },
+    {
+        "object_named_as": "Francisco Rodríguez-Sánchez",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Nacional de Educación a Distancia,"
+    },
+    {
+        "object_named_as": "Aiala Rosá",
+        "series_ordinal": 11,
+        "orcid_id": null,
+        "affiliation_string": "Universidad de la República, Montevideo,"
+    },
+    {
+        "object_named_as": "Marco Antonio Sobrevilla-Cabezudo",
+        "series_ordinal": 12,
+        "orcid_id": null,
+        "affiliation_string": "University of São Paulo,"
+    },
+    {
+        "object_named_as": "Mariona Taulé",
+        "series_ordinal": 13,
+        "orcid_id": null,
+        "affiliation_string": "CLiC, UBICS, Universitat de Barcelona,"
+    },
+    {
+        "object_named_as": "Rafael Valencia-García",
+        "series_ordinal": 14,
+        "orcid_id": null,
+        "affiliation_string": "Facultad de Informatica, Universidad de Murcia, Campus de Espinardo,"
+    }
+]

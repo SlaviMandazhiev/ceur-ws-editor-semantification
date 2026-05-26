@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Karl Hammar",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Jönköping University, Jönköping AI Lab, Jönköping, Sweden"
+    },
+    {
+        "object_named_as": "Cogan Shimizu",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Kansas State University, Data Semantics (DaSe) Lab, Kansas, USA"
+    },
+    {
+        "object_named_as": "Hande Küçük McGinty",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Ohio University, Department of Chemistry and Biochemistry, Ohio, USA"
+    },
+    {
+        "object_named_as": "Luigi Asprino",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Bologna, Department of Classical Philology and Italian Studies, Bologna, Italy"
+    },
+    {
+        "object_named_as": "Valentina Anita Carriero",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Bologna, Department of Computer Science and Engineering, Bologna, Italy"
+    }
+]

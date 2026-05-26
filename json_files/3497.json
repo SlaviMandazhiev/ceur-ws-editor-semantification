@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Mohammad Aliannejadi",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Amsterdam, The Netherlands"
+    },
+    {
+        "object_named_as": "Guglielmo Faggioli",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Padua, Italy"
+    },
+    {
+        "object_named_as": "Nicola Ferro",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Padua, Italy"
+    },
+    {
+        "object_named_as": "Michalis Vlachos",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Lausanne, Switzerland"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Mieke Jans",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "UHasselt, Faculty of Business Economics"
+    },
+    {
+        "object_named_as": "Gert Janssenswillen",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "UHasselt, Faculty of Business Economics"
+    },
+    {
+        "object_named_as": "Anna Kalenkova",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "The University of Melbourne, School of Computing and Information Systems"
+    },
+    {
+        "object_named_as": "Fabrizio Maria Maggi",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Faculty of Computer Science"
+    }
+]

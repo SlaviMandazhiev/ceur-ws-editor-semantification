@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Cataldo Musto",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari 'Aldo Moro', Department of Computer Science, Bari, Italy"
+    },
+    {
+        "object_named_as": "Riccardo Guidotti",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Pisa, Department of Computer Science, Pisa, Italy"
+    },
+    {
+        "object_named_as": "Anna Monreale",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Pisa, Department of Computer Science, Pisa, Italy"
+    },
+    {
+        "object_named_as": "Giovanni Semeraro",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari 'Aldo Moro', Department of Computer Science, Bari, Italy"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "object_named_as": "Danai Symeonidou",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "INRAE, Place Pierre Viala 2, 34000 Montpellier, France"
+    },
+    {
+        "object_named_as": "Ran Yu",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bonn, Friedrich-Hirzebruch-Allee 8, 53115 Bonn, Germany"
+    },
+    {
+        "object_named_as": "Davide Ceolin",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "CWI, Science Park 123, 1098 XG Amsterdam, Netherlands"
+    },
+    {
+        "object_named_as": "María Poveda-Villalón",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Politécnica de Madrid, Boadilla del Monte, Madrid, Spain"
+    },
+    {
+        "object_named_as": "Davide Audrito",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Universiy of Bologna, Via Zamboni 27/29, Bologna, Italy"
+    },
+    {
+        "object_named_as": "Luigi Di Caro",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Turin, Corso Svizzera 185, 10149 Torino, Italy"
+    },
+    {
+        "object_named_as": "Francesca Grasso",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Dominikanerplatz 3 - piazza Domenicani, 39100 Bozen-Bolzano, Italy"
+    },
+    {
+        "object_named_as": "Roberto Nai",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Dominikanerplatz 3 - piazza Domenicani, 39100 Bozen-Bolzano, Italy"
+    },
+    {
+        "object_named_as": "Emilio Sulis",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Dominikanerplatz 3 - piazza Domenicani, 39100 Bozen-Bolzano, Italy"
+    },
+    {
+        "object_named_as": "Fajar J. Ekaputra",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "TU Wien, Favoritenstrasse 9-11, 1040 Vienna, Austria"
+    },
+    {
+        "object_named_as": "Oliver Kutz",
+        "series_ordinal": 11,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Dominikanerplatz 3 - piazza Domenicani, 39100 Bozen-Bolzano, Italy"
+    },
+    {
+        "object_named_as": "Nicolas Troquard",
+        "series_ordinal": 12,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Dominikanerplatz 3 - piazza Domenicani, 39100 Bozen-Bolzano, Italy"
+    }
+]

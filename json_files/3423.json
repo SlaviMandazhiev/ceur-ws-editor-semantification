@@ -1,0 +1,56 @@
+[
+    {
+        "object_named_as": "Jack G. Conrad",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Thomson Reuters, USA"
+    },
+    {
+        "object_named_as": "Daniel W. Linna, Jr.",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Northwestern University, USA"
+    },
+    {
+        "object_named_as": "Jason R. Baron",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Maryland, USA"
+    },
+    {
+        "object_named_as": "Hans Henseler",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Applied Sciences - Leiden and Netherlands Forensics Institute, Netherlands"
+    },
+    {
+        "object_named_as": "Paheli Bhattacharya",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "IIT - Kharagpur, India"
+    },
+    {
+        "object_named_as": "Aileen Nielsen",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "ETH - Zurich, Switzerland"
+    },
+    {
+        "object_named_as": "Jyothi Vinjumur",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "CBRE, USA"
+    },
+    {
+        "object_named_as": "Jeremy Pickens",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Redgrave Data, USA"
+    },
+    {
+        "object_named_as": "Amanda Jones",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "Lighthouse, USA"
+    }
+]

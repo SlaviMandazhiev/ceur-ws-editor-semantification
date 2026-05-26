@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "João Vinagre",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "(1) INESC TEC, Laboratory of Artificial Intelligence and Decision Support (LIAAD), Porto, Portugal (2) University of Porto, Faculty of Sciences - Department of Computer Science, Porto, Portugal"
+    },
+    {
+        "object_named_as": "Marie Al-Ghossein",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "(3) Crossing Minds, Paris, France"
+    },
+    {
+        "object_named_as": "Alípio Mário Jorge",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "(1) INESC TEC, Laboratory of Artificial Intelligence and Decision Support (LIAAD), Porto, Portugal (2) University of Porto, Faculty of Sciences - Department of Computer Science, Porto, Portugal"
+    },
+    {
+        "object_named_as": "Albert Bifet",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "(4) University of Waikato, Te Ipu o te Mahara Institute, Hamilton, New Zealand (5) Télécom Paris, Laboratoire Traitement et Communication de l’Information (LTCI), Paris, France"
+    },
+    {
+        "object_named_as": "Ladislav Peška",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "(6) Charles University, Department of Software Engineering, Prague, Czechia"
+    }
+]

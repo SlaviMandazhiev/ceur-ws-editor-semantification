@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Ángel Hernández-García",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Politécnica de Madrid, Departamento de Ingeniería de Organización, Administración de Empresas y Estadística, Escuela Técnica Superior de Ingenieros de Telecomunicación. Av. Complutense 30, 28040 Madrid, Spain"
+    },
+    {
+        "object_named_as": "Davinia Hernández-Leo",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Universitat Pompeu Fabra, Department of ICT. Roc Boronat 138, 08018 Barcelona, Spain"
+    },
+    {
+        "object_named_as": "Manuel Caeiro-Rodríguez",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universidade de Vigo, Department of Telematics Engineering. Campus Lagoas-Marcosende, 36310 Vigo, Spain"
+    },
+    {
+        "object_named_as": "Teresa Sancho-Vinuesa",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Universitat Oberta de Catalunya, Computer Science, Multimedia and Telecommunication Department. Rambla del Poblenou 156, 08018 Barcelona, Spain"
+    }
+]

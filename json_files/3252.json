@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Raquel Lazcano Lopez",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Sassari"
+    },
+    {
+        "object_named_as": "Daniel Madroñal Quintin",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Sassari"
+    },
+    {
+        "object_named_as": "Francesca Palumbo",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Milano"
+    },
+    {
+        "object_named_as": "Christian Pilato",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Milano"
+    },
+    {
+        "object_named_as": "Armando Tacchella",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Genova"
+    }
+]

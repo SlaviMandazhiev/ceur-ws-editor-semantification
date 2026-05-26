@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Thomas Corpetti",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "CNRS, LETG-Rennes COSTEL UMR 6554 CNRS, Rennes, France"
+    },
+    {
+        "object_named_as": "Dino Ienco",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "INRAE, UMR Tetis, Montpellier, France "
+    },
+    {
+        "object_named_as": "Roberto Interdonato",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "CIRAD, UMR Tetis, Montpellier, France "
+    },
+    {
+        "object_named_as": "Minh-Tan Pham",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Univ. Bretagne-Sud, UMR 6074, IRISA, Vannes, France "
+    },
+    {
+        "object_named_as": "Sébastien Lefèvre",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Univ. Bretagne-Sud, UMR 6074, IRISA, Vannes, France "
+    }
+]

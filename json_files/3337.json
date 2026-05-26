@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Gunjan Singh",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "KRaCR Lab, IIIT, Delhi, India"
+    },
+    {
+        "object_named_as": "Raghava Mutharaju",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "KRaCR Lab, IIIT, Delhi, India"
+    },
+    {
+        "object_named_as": "Pavan Kapanipathi",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "IBM T.J. Watson Research Center, USA "
+    },
+    {
+        "object_named_as": "Nandana Mihindukulasooriya",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "IBM T.J. Watson Research Center, USA "
+    },
+    {
+        "object_named_as": "Mohnish Dubey",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Philips Research, Netherlands"
+    },
+    {
+        "object_named_as": "Ricardo Usbeck",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Hamburg, Germany "
+    },
+    {
+        "object_named_as": "Debayan Banerjee",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "University of Hamburg, Germany"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Yurii I. Shokin",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Federal Research Center for Information and Computational Technologies, Novosibirsk, Russia"
+    },
+    {
+        "object_named_as": "Victor V. Alt",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Siberian Federal Research Center for Agrobiotechnologies of the Russian Academy of Sciences, Novosibirsk, Russia"
+    },
+    {
+        "object_named_as": "Igor V. Bychkov",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Matrosov Institute for System Dynamics and Control Theory SB RAS, Irkutsk, Russia"
+    },
+    {
+        "object_named_as": "Oleg I. Potaturkin",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Automation and Electrometry SB RAS, Novosibirsk, Russia"
+    },
+    {
+        "object_named_as": "Igor A. Pestunov",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Federal Research Center for Information and Computational Technologies, Novosibirsk, Russia"
+    }
+]

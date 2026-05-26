@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Balbir Barn",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Middlesex University, Faculty of Science and Technology, London, UK"
+    },
+    {
+        "object_named_as": "Kurt Sandkuhl",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Rostock, Institue of Computer Science, Rostock, Germany"
+    },
+    {
+        "object_named_as": "Estefanía Serral Asensio",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "KU Leuven, Research Centre for Information Systems Engineering, Leuven, Belgium"
+    },
+    {
+        "object_named_as": "Janis Stirna",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Stockholm University, Department of Computer and Systems Sciences, Stockholm, Sweden"
+    }
+]

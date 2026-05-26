@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Elad Yacobson",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Weizmann Institute of Science, 234 Herzl St., Rehovot, Israel"
+    },
+    {
+        "object_named_as": "Tanya Nazaretsky",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Weizmann Institute of Science, 234 Herzl St., Rehovot, Israel"
+    },
+    {
+        "object_named_as": "Armando M. Toda",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Durham University, Stockton Road, UK "
+    },
+    {
+        "object_named_as": "Alexandra I. Cristea",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Durham University, Stockton Road, UK "
+    },
+    {
+        "object_named_as": "Giora Alexandron",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Weizmann Institute of Science, 234 Herzl St., Rehovot, Israel"
+    }
+]

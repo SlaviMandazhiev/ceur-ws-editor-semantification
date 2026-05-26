@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Boris Konev",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Liverpool, Department of Computer Science, Liverpool, UK"
+    },
+    {
+        "object_named_as": "Claudia Schon",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Koblenz, Institute for Web Science and Technologies, Koblenz, Germany"
+    },
+    {
+        "object_named_as": "Alexander Steen",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Greifswald, Institute of Mathematics and Computer Science, Greifswald, Germany"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Md Sanaul Haque",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "LUT University, Dept of Software Engineering, Software Sustainability Research Group, Lappeenranta, Finland"
+    },
+    {
+        "object_named_as": "Harri Oinas-Kukkonen",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Oulu, Oulu Advanced Research on Service and Information Systems Research Group (OASIS), Oulu, Finland"
+    },
+    {
+        "object_named_as": "Pasi Karppinen",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Oulu, Oulu Advanced Research on Service and Information Systems Research Group (OASIS), Oulu, Finland"
+    },
+    {
+        "object_named_as": "Sriram Iyengar",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Arizona, COM Phx Internal Medicine, BIO5 Institute, University of Arizona, Arizona, USA"
+    },
+    {
+        "object_named_as": "Lisette van Gemert-Pijnen",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Twente, Department of Psychology, Health and Technology, Twente, The Netherlands"
+    }
+]

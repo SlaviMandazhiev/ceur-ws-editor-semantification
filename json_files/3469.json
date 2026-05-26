@@ -1,0 +1,68 @@
+[
+    {
+        "object_named_as": "Dirk Fahland",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Eindhoven University of Technology, Department of Mathematics and Computer Science"
+    },
+    {
+        "object_named_as": "Andrés Jiménez Ramírez",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Seville, Departament of Computer Languages and Systems"
+    },
+    {
+        "object_named_as": "Akhil Kumar",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Penn State University, Smeal College of Business"
+    },
+    {
+        "object_named_as": "Jan Mendling",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Humboldt-Universität zu Berlin, Faculty of Mathematics and Natural Sciences"
+    },
+    {
+        "object_named_as": "Brian Pentland",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Michigan State University, Broad College of Business"
+    },
+    {
+        "object_named_as": "Stefanie Rinderle-Ma",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Technical University of Munich, TUM School of Computation, Information, and Technology"
+    },
+    {
+        "object_named_as": "Tijs Slaats",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "University of Copenhagen, Department of Computer Science"
+    },
+    {
+        "object_named_as": "Johan Versendaal",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "University of Applied Sciences Utrecht, Research Group of Digital Ethics"
+    },
+    {
+        "object_named_as": "Barbara Weber",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "University of St. Gallen, Institute of Computer Science"
+    },
+    {
+        "object_named_as": "Mathias Weske",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "Hasso-Plattner-Institut, University of Potsdam, Research Group Business Process Technology"
+    },
+    {
+        "object_named_as": "Karolin Winter",
+        "series_ordinal": 11,
+        "orcid_id": null,
+        "affiliation_string": "Eindhoven University of Technology, Department of Industrial Engineering and Innovation Sciences"
+    }
+]

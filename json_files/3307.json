@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Francesco Calimeri",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Calabria, Rende, Italy"
+    },
+    {
+        "object_named_as": "Mauro Dragoni",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Fondazione Bruno Kessler, Trento, Italy"
+    },
+    {
+        "object_named_as": "Fabio Stella",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Università di Milano-Bicocca, Milano, Italy"
+    }
+]

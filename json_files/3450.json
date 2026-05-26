@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Federico Bianchi",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Stanford University"
+    },
+    {
+        "object_named_as": "Patrick John Chia",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Coveo"
+    },
+    {
+        "object_named_as": "Ciro Greco",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Bauplan"
+    },
+    {
+        "object_named_as": "Claudio Pomo",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Bari"
+    },
+    {
+        "object_named_as": "Gabriel Moreira",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "NVIDIA"
+    },
+    {
+        "object_named_as": "Davide Eynard",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "mozilla.ai"
+    },
+    {
+        "object_named_as": "Fahd Husain",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "New York University"
+    },
+    {
+        "object_named_as": "Jacopo Tagliabue",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": null
+    }
+]

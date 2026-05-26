@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Chengzhi Zhang",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Nanjing University of Science and Technology, China"
+    },
+    {
+        "object_named_as": "Yi Zhang",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Technology Sydney, Australia"
+    },
+    {
+        "object_named_as": "Philipp Mayr",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "GESIS - Leibniz Institute for the Social Sciences, Germany"
+    },
+    {
+        "object_named_as": "Wei Lu",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Wuhan University, China"
+    },
+    {
+        "object_named_as": "Arho Suominen",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Tampere University, Finland"
+    },
+    {
+        "object_named_as": "Haihua Chen",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of North Texas, USA"
+    },
+    {
+        "object_named_as": "Ying Ding",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "University of Texas at Austin, USA"
+    }
+]

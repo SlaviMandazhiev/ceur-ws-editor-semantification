@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Geetha Ganesan",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Advanced Computing Research Society, Chennai, Tamilnadu, India"
+    },
+    {
+        "object_named_as": "Babita Pandey",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Babasaheb Bhimrao Ambedkar University, Lucknow, Uttar Pradesh, India"
+    },
+    {
+        "object_named_as": "Dakshina Ranjan Kisku",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "National Institute of Technology Durgapur, West Bengal, India"
+    }
+]

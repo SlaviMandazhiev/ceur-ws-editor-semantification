@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Thomas E. Doyle",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "McMaster University, Department of Electrical and Computer Engineering, Hamilton, Ontario, Canada"
+    },
+    {
+        "object_named_as": "Aisling Kelliher",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Virginia Tech, Department of Computer Science, Blacksburg, Virginia, USA"
+    },
+    {
+        "object_named_as": "Reza Samavi",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Ryerson University, Department of Electrical and Computer Engineering, Toronto, Ontario, Canada"
+    },
+    {
+        "object_named_as": "Barbara Barry",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Mayo Clinic, Division of Health Care Delivery Research, Scottsdale, Arizona, USA"
+    },
+    {
+        "object_named_as": "Steven Yule",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Edinburgh, Behavioural Sciences and Clinical Surgery, Edinburgh, Scotland, United Kingdom"
+    },
+    {
+        "object_named_as": "Sarah Parker",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Virginia Tech, Health Innovation and Implementation Science, Blacksburg, Virginia, USA"
+    },
+    {
+        "object_named_as": "Michael Noseworthy",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "McMaster University, Department of Electrical and Computer Engineering, Hamilton, Ontario, Canada"
+    },
+    {
+        "object_named_as": "Qian Yang",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Cornell University, Bowers College of Computing and Information Science, Ithaca, New York, USA"
+    }
+]

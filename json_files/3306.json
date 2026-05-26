@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Cinzia Cappiello",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Milano, Milan, Italy"
+    },
+    {
+        "object_named_as": "Sandra Geisler",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "RWTH University Aachen, Data Stream Management and Analysis, Aachen, Germany "
+    },
+    {
+        "object_named_as": "Maria-Esther Vidal",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Leibniz University of Hannover, Hannover, Germany "
+    }
+]

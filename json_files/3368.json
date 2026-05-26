@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Aurora Saibene",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Milano-Bicocca, Viale Sarca 336, 20126, Milano, Italy"
+    },
+    {
+        "object_named_as": "Silvia Corchs",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "NeuroMI, Milan Center for Neuroscience, Piazza dell’Ateneo Nuovo 1, 20126, Milano, Italy"
+    },
+    {
+        "object_named_as": "Jordi Solé-Casals",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Vic-Central University of Catalonia, C de la Laura 13, 08500, Vic, Barcelona, Spain"
+    }
+]

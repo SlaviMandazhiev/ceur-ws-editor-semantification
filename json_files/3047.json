@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Anna V. Korobko",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Reshetnev Siberian State University of Science and Technology, Institute of Informatics and Telecommunications"
+    },
+    {
+        "object_named_as": "Tatyana G. Penkova",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Computational Modeling SB RAS, Department of Applied Computer Science"
+    },
+    {
+        "object_named_as": "Natalya Mikhailenko",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Federal Research Center 'Krasnoyarsk Science Center SB RAS'"
+    },
+    {
+        "object_named_as": "Yuliya Zharkova",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Federal Research Center 'Krasnoyarsk Science Center SB RAS'"
+    }
+]

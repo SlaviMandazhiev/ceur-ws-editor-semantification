@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Marco Anisetti",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Milano, Milan, Italy"
+    },
+    {
+        "object_named_as": "Angela Bonifati",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Lyon 1, Lyon, France "
+    },
+    {
+        "object_named_as": "Nicola Bena",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Milano, Milan, Italy"
+    },
+    {
+        "object_named_as": "Claudio A. Ardagna",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Milano, Milan, Italy"
+    },
+    {
+        "object_named_as": "Donato Malerba",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Bari Aldo Moro, Bari, Italy "
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Marianna Bergamaschi Ganapini",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Union College, New York, USA"
+    },
+    {
+        "object_named_as": "Lior Horesh",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research, Yorktown Heights, USA "
+    },
+    {
+        "object_named_as": "Luis Lamb",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Federal University of Rio Grande do Sul, Porto Alegre, Brasil "
+    },
+    {
+        "object_named_as": "Andrea Loreggia",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Brescia, Brescia, Italy"
+    },
+    {
+        "object_named_as": "Nicholas Mattei",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Tulane University, New Orleans, USA "
+    },
+    {
+        "object_named_as": "Francesca Rossi",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research, Yorktown Heights, USA "
+    },
+    {
+        "object_named_as": "Biplav Srivastava",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "University of South Carolina, Columbia, USA "
+    },
+    {
+        "object_named_as": "Brent Venable",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "University of South Florida and IHMC, Pensacola, USA "
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "object_named_as": "Hasan Koç",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Berlin International University, Berlin, Germany"
+    },
+    {
+        "object_named_as": "Janis Stirna",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Stockholm University, Stockholm, Sweden"
+    },
+    {
+        "object_named_as": "Kurt Sandkuhl",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Rostock , Rostock, Germany"
+    },
+    {
+        "object_named_as": "Ulf Seigerroth",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Jönköping University, Jönköping, Sweden"
+    },
+    {
+        "object_named_as": "Mārīte Kirikova",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": " Riga Technical University, Riga, Latvia"
+    },
+    {
+        "object_named_as": "Peter Forbrig",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Rostock , Rostock, Germany"
+    },
+    {
+        "object_named_as": "Charles Møller",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": " Aalborg University, Allborg, Denmark"
+    },
+    {
+        "object_named_as": "Anne Gutschmidt",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "University of Rostock , Rostock, Germany"
+    },
+    {
+        "object_named_as": "Björn Johansson",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": " Linköping University, Linköping, Sweden"
+    }
+]

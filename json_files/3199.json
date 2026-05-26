@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Amitava Das",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Wipro AI Labs, India"
+    },
+    {
+        "object_named_as": "Tanmay Chakraborty",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "IIIT Delhi, India"
+    },
+    {
+        "object_named_as": "Asif Ekbal",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "IIT Patna, India"
+    },
+    {
+        "object_named_as": "Amit Sheth",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "AI Institute, University of South Carolina, USA"
+    }
+]

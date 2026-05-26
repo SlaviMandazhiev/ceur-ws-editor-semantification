@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Michał Araszkiewicz",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Jagiellonian University, Poland"
+    },
+    {
+        "object_named_as": "Martin Atzmueller",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Osnabrück University , Germany"
+    },
+    {
+        "object_named_as": "Grzegorz J. Nalepa",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Jagiellonian University, Poland"
+    },
+    {
+        "object_named_as": "Bart Verheij",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University in Groningen, The Netherlands"
+    },
+    {
+        "object_named_as": "Szymon Bobek",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Jagiellonian University, Poland"
+    }
+]

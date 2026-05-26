@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Ali Hasnain",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Medicine and Health Science, Pharmacy and Biomolecular Sciences"
+    },
+    {
+        "object_named_as": "Tracy Robson",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Medicine and Health Science, Pharmacy and Biomolecular Sciences"
+    },
+    {
+        "object_named_as": "Michel Dumontier",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Maastricht University, Institute of Data Science "
+    },
+    {
+        "object_named_as": "Alba Morales Tirado",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "The Open University , Knowledge Media Institute "
+    },
+    {
+        "object_named_as": "Dietrich Rebholz-Schuhmann",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Information Centre for Life Sciences , ZB MED "
+    }
+]

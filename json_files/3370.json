@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Ricardo Campos",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "INESC TEC, Rua Dr. Roberto Frias, 4200-465 Porto, Portugal"
+    },
+    {
+        "object_named_as": "Alípio Mário Jorge",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "FCUP, University of Porto, Rua do Campo Alegre, s/n, 4169-007 Porto, Portugal"
+    },
+    {
+        "object_named_as": "Adam Jatowt",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Innsbruck, Austria, Innrain 52, 6020 Innsbruck, Austria"
+    },
+    {
+        "object_named_as": "Sumit Bhatia",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Adobe Media and Data Science Research Lab, India, MDSR Lab, Adobe Systems, India"
+    },
+    {
+        "object_named_as": "Marina Litvak",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Shamoon Academic College of Engineering, Israel, 56 Bialik St. Be'er Sheva 8410802, Israel"
+    }
+]

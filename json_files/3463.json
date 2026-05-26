@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Francesco Epifania",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Social Thingum, Milan, Italy"
+    },
+    {
+        "object_named_as": "Luca Marconi",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Milano - Bicocca, Department of Informatics, Systems and Communication, Milan, Italy "
+    },
+    {
+        "object_named_as": "Ricardo Matamoros",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Milano - Bicocca, Department of Informatics, Systems and Communication, Milan, Italy "
+    },
+    {
+        "object_named_as": "Riccardo Rosati",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Polytechnic University of Marche, Department of Information Engineering, Ancona, Italy"
+    },
+    {
+        "object_named_as": "Emanuele Frontoni",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Macerata, Department of Political Science, Communication and International Relations, Macerata, Italy"
+    },
+    {
+        "object_named_as": "Luca Romeo",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Macerata, Department of Economics and Law, Macerata, Italy"
+    }
+]

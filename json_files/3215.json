@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Gabriel Pedroza",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Commissariat à l´Energie Atomique, France"
+    },
+    {
+        "object_named_as": "Xin Cynthia Chen",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Hong Kong, China"
+    },
+    {
+        "object_named_as": "José Hernández-Orallo",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universitat Politècnica de València, Spain"
+    },
+    {
+        "object_named_as": "Xiaowei Huang",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Liverpool, United Kingdom"
+    },
+    {
+        "object_named_as": "Huáscar Espinoza",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "KDT JU, Belgium"
+    },
+    {
+        "object_named_as": "Richard Mallah",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Future of Life Institute, USA"
+    },
+    {
+        "object_named_as": "John McDermid",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "University of York, United Kingdom"
+    },
+    {
+        "object_named_as": "Mauricio Castillo-Effen",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Lockheed Martin, USA"
+    }
+]

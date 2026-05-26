@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Hayley Borck",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "SIFT (USA)"
+    },
+    {
+        "object_named_as": "Viktor Eisenstadt",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "DFKI / University of Hildesheim (Germany)"
+    },
+    {
+        "object_named_as": "Antonio Sánchez-Ruiz",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Complutense de Madrid (Spain)"
+    },
+    {
+        "object_named_as": "Michael Floyd",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Knexus Research (USA)"
+    }
+]

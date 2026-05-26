@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Mirko Lai",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Università di Torino, Italy"
+    },
+    {
+        "object_named_as": "Stefano Menini",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Fondazione Bruno Kessler, Italy"
+    },
+    {
+        "object_named_as": "Marco Polignano",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Bari Aldo Moro, Italy"
+    },
+    {
+        "object_named_as": "Valentina Russo",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Logogramma SRL, Italy"
+    },
+    {
+        "object_named_as": "Rachele Sprugnoli",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Parma, Italy"
+    },
+    {
+        "object_named_as": "Giulia Venturi",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Istituto di Linguistica Computazionale “A. Zampolli” - CNR-ILC, Italy"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Emilio M. Sanfilippo",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "ISTC-CNR Laboratory for Applied Ontology, Italy"
+    },
+    {
+        "object_named_as": "Mohamed-Hedi Karray",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "École Nationale d'Ingénieurs de Tarbes (ENIT), France"
+    },
+    {
+        "object_named_as": "Dimitrios Kyritsis",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland"
+    },
+    {
+        "object_named_as": "Arkopaul Sarkar",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "École Nationale d'Ingénieurs de Tarbes (ENIT), France"
+    }
+]

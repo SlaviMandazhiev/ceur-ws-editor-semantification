@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Folgert Karsdorp",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "KNAW Meertens Institute, Amsterdam, the Netherlands"
+    },
+    {
+        "object_named_as": "Alie Lassche",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Leiden University, Leiden, the Netherlands"
+    },
+    {
+        "object_named_as": "Kristoffer Nielbo",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Aarhus University, Aarhus, Denmark"
+    }
+]

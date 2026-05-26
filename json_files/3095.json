@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Edward Raff",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Booz Allen Hamilton"
+    },
+    {
+        "object_named_as": "Hyrum Anderson",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Microsoft"
+    },
+    {
+        "object_named_as": "Sagar Samtani",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Indiana University"
+    }
+]

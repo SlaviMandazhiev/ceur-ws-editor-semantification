@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Anthony Stein",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Hohenheim, Artificial Intelligence in Agricultural Engineering, Stuttgart, Germany"
+    },
+    {
+        "object_named_as": "Sven Tomforde",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Kiel University, Intelligent Systems, Kiel, Germany"
+    },
+    {
+        "object_named_as": "Jean Botev",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Luxembourg, Department of Computer Science, Esch-sur-Alzette, Luxembourg"
+    },
+    {
+        "object_named_as": "Peter Lewis",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Ontario Tech University, Trustworthy Artificial Intelligence, Oshawa, Canada"
+    }
+]

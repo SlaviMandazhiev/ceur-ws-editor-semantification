@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Volodymyr Sokolov",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Borys Grinchenko Kyiv University, Kyiv, Ukraine"
+    },
+    {
+        "object_named_as": "Tamara Radivilova",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Kharkiv National University of Radio Electronics, Kharkiv, Ukraine"
+    },
+    {
+        "object_named_as": "Vasyl Ustimenko",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Royal Holloway, University of London, London, UK"
+    },
+    {
+        "object_named_as": "Mariya Nazarkevych",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Lviv Polytechnic National University, Lviv, Ukraine"
+    }
+]

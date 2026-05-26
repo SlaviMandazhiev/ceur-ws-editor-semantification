@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Tarmo Robal",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Tallinn University of Technology, School of Information Technologies"
+    },
+    {
+        "object_named_as": "Diana Kalibatiene",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Vilnius Gediminas Technical University, Department of Information Systems"
+    },
+    {
+        "object_named_as": "Girts Karnitis",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Latvia, Faculty of Computing"
+    },
+    {
+        "object_named_as": "Laila Niedrite",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Latvia, Faculty of Computing"
+    },
+    {
+        "object_named_as": "Marite Kirikova",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Riga Technical University, Department of Artificial Intelligence and Systems Engineering"
+    },
+    {
+        "object_named_as": "Mirjana Ivanovic",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Novi Sad, Department of Mathematics and Informatics"
+    },
+    {
+        "object_named_as": "Juris Borzovs",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "University of Latvia, Faculty of Computing"
+    }
+]

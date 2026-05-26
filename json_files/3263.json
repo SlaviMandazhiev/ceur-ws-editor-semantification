@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Ofer Arieli",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "The Academic College of Tel-Aviv, Israel"
+    },
+    {
+        "object_named_as": "Martin Homola",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Comenius University in Bratislava, Slovakia"
+    },
+    {
+        "object_named_as": "Jean Christoph Jung",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Hildesheim, Germany"
+    },
+    {
+        "object_named_as": "Marie-Laure Mugnier",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Montpellier (LIRMM / INRIA), France"
+    }
+]

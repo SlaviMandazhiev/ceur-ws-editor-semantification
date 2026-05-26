@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Miguel Couceiro",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Lorraine, CNRS, LORIA, Nancy, France"
+    },
+    {
+        "object_named_as": "Stergos Afantenos",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Université Paul Sabatier, IRIT Institute, Toulouse, France "
+    },
+    {
+        "object_named_as": "Pierre-Alexandre Murena",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Hamburg University of Technology, Hamburg, Germany"
+    }
+]

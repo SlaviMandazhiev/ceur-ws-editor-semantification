@@ -1,0 +1,74 @@
+[
+    {
+        "object_named_as": "Steven Moore",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Carnegie Mellon University, Pittsburgh, Pennsylvania, United States"
+    },
+    {
+        "object_named_as": "John Stamper",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Carnegie Mellon University, Pittsburgh, Pennsylvania, United States"
+    },
+    {
+        "object_named_as": "Richard Tong",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Carnegie Learning, Pittsburgh, Pennsylvania, United States"
+    },
+    {
+        "object_named_as": "Chen Cao",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Jinan University, Guangdon Province, China"
+    },
+    {
+        "object_named_as": "Zitao Liu",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Jinan University, Guangdon Province, China"
+    },
+    {
+        "object_named_as": "Xiangen Hu",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Memphis, Memphis, Tennessee, United States"
+    },
+    {
+        "object_named_as": "Yu Lu",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Beijing Normal University, Beijing, China"
+    },
+    {
+        "object_named_as": "Joleen Liang",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Squirrel AI Learning, Shanghai, China"
+    },
+    {
+        "object_named_as": "Hassan Khosravi",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "University of Queensland, St Lucia, Queensland, Austrailia "
+    },
+    {
+        "object_named_as": "Paul Denny",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "University of Auckland, Auckland, New Zealand "
+    },
+    {
+        "object_named_as": "Anjali Singh",
+        "series_ordinal": 11,
+        "orcid_id": null,
+        "affiliation_string": "University of Michigan, Ann Arbor, Michigan, United States"
+    },
+    {
+        "object_named_as": "Chris Brooks",
+        "series_ordinal": 12,
+        "orcid_id": null,
+        "affiliation_string": "University of Michigan, Ann Arbor, Michigan, United States"
+    }
+]

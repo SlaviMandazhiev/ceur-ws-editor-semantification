@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Ana Lúcia C. Bazzan",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Informatics, Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil"
+    },
+    {
+        "object_named_as": "Ivana Dusparic",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "School of Computer Science and Statistics at Trinity College Dublin, Ireland"
+    },
+    {
+        "object_named_as": "Marin Lujak",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "CETINIA, University Rey Juan Carlos, Spain"
+    },
+    {
+        "object_named_as": "Giuseppe Vizzari",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Department of Informatics, Systems and Communication, Università degli Studi di Milano-Bicocca, Milano, Italy"
+    }
+]

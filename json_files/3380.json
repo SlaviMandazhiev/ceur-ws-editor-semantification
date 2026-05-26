@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Gabriella Casalino",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Computer Science Dept., University of Bari Aldo Moro, Bari, Italy"
+    },
+    {
+        "object_named_as": "Giovanna Castellano",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Computer Science Dept., University of Bari Aldo Moro, Bari, Italy"
+    },
+    {
+        "object_named_as": "Katarzyna Kaczmarek-Majer",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Systems Research Institute, Polish Academy of Sciences, Warsaw, Poland"
+    },
+    {
+        "object_named_as": "Daniel Leite",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Faculty of Engineering and Science, Universidad Adolfo Ibáñez, Santiago, Chile"
+    }
+]

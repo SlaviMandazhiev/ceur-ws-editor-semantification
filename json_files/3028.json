@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Pasi Kuvaja",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Oulu, Faculty of Information Technology and Electrical Engineering"
+    },
+    {
+        "object_named_as": "Philippe Krief",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Eclipse Foundation Europe GmbH, Eclipse Foundation Europe"
+    },
+    {
+        "object_named_as": "Tero Päivärinta",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Oulu, Faculty of Information Technology and Electrical Engineering"
+    },
+    {
+        "object_named_as": "Teemu Karvonen",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Oulu, Faculty of Information Technology and Electrical Engineering"
+    },
+    {
+        "object_named_as": "Markus Kelanti",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Oulu, Faculty of Information Technology and Electrical Engineering"
+    },
+    {
+        "object_named_as": "Susan Iwai",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": null
+    }
+]

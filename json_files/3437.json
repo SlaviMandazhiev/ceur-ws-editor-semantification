@@ -1,0 +1,80 @@
+[
+    {
+        "object_named_as": "Joaquín Arias",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Rey Juan Carlos, Spain"
+    },
+    {
+        "object_named_as": "Sotiris Batsakis",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Huddersfield, UK"
+    },
+    {
+        "object_named_as": "Wolfgang Faber",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Klagenfurt, Austria"
+    },
+    {
+        "object_named_as": "Gopal Gupta",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Texas at Dallas, USA"
+    },
+    {
+        "object_named_as": "Francesco Pacenza",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Calabria, Italy"
+    },
+    {
+        "object_named_as": "Emmanuel Papadakis",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Huddersfield, UK"
+    },
+    {
+        "object_named_as": "Livio Robaldo",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "University of Swansea, UK"
+    },
+    {
+        "object_named_as": "Kilian Rückschloß",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Ludwig-Maximilians-Universität München, Germany"
+    },
+    {
+        "object_named_as": "Elmer Salazar",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "University of Texas at Dallas, USA"
+    },
+    {
+        "object_named_as": "Zeynep G. Saribatur",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "TU Wien, Austria"
+    },
+    {
+        "object_named_as": "Ilias Tachmazidis",
+        "series_ordinal": 11,
+        "orcid_id": null,
+        "affiliation_string": "University of Huddersfield, UK"
+    },
+    {
+        "object_named_as": "Felix Weitkämper",
+        "series_ordinal": 12,
+        "orcid_id": null,
+        "affiliation_string": "Ludwig-Maximilians-Universität München, Germany"
+    },
+    {
+        "object_named_as": "Adam Wyner",
+        "series_ordinal": 13,
+        "orcid_id": null,
+        "affiliation_string": "University of Swansea, UK"
+    }
+]

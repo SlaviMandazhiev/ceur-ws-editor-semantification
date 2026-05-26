@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Jose M. Alvarez",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Scuola Normale Superiore, Pisa, Italy"
+    },
+    {
+        "object_named_as": "Alessandro Fabris",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Max Planck Institute for Security and Privacy, Bochum, Germany"
+    },
+    {
+        "object_named_as": "Christoph Heitz",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Zurich University of Applied Sciences, Switzerland"
+    },
+    {
+        "object_named_as": "Corinna Hertweck",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Zurich University of Applied Sciences and University of Zurich, Switzerland"
+    },
+    {
+        "object_named_as": "Michele Loi",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Polytechnic University of Milan, Italy"
+    },
+    {
+        "object_named_as": "Meike Zehlike",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Zalando, Berlin, Germany"
+    }
+]

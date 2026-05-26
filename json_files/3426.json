@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Michael Emmerich",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Leiden Institute of Advanced Computer Science, Leiden University, The Netherlands"
+    },
+    {
+        "object_named_as": "Victoria Vysotska",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Osnabrück University, Germany"
+    },
+    {
+        "object_named_as": "Volodymyr Lytvynenko",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Kherson National Technical University, Ukraine"
+    }
+]

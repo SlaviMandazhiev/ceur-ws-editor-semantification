@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Arild Waaler",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "SIRIUS Centre, Department of Informatics, University of Oslo, Faculty of Mathematics and Natural Sciences"
+    },
+    {
+        "object_named_as": "Evgeny Kharlamov",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Bosch Center for Artifiical Intelligence, Robert Bosch GmbH"
+    },
+    {
+        "object_named_as": "Baifan Zhou",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "SIRIUS Centre, Department of Informatics, University of Oslo, Faculty of Mathematics and Natural Sciences"
+    },
+    {
+        "object_named_as": "Dongzhuoran Zhou",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Bosch Center for Artifiical Intelligence, Robert Bosch GmbH"
+    }
+]

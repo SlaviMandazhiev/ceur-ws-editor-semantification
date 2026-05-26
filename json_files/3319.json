@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Guido Boella",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Turin, Department of Computer Science"
+    },
+    {
+        "object_named_as": "Fabio Aurelio D'Asaro",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Verona, Ethos Group, Department of Human Sciences"
+    },
+    {
+        "object_named_as": "Abeer Dyoub",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of L'Aquila, DISIM"
+    },
+    {
+        "object_named_as": "Giuseppe Primiero",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Milan, LUCI Group, Department of Philosophy"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Tobias Käfer",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Karlsruhe Institute of Technology (KIT), Institute AIFB, D-7612 Karlsruhe, Germany"
+    },
+    {
+        "object_named_as": "Andreas Harth",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Friedrich-Alexander University (FAU) Erlangen-Nuremberg, Chair of Technical Information Systems, 90403 Nuremberg, Germany"
+    },
+    {
+        "object_named_as": "Andrei Ciortea",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of St. Gallen, Chair of Interaction- and Communication-based Systems, CH-9000 St. Gallen, Switzerland"
+    },
+    {
+        "object_named_as": "Victor Charpenay",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Mines Saint-Étienne, Univ Clermont Auvergne, INP Clermont Auvergne, CNRS, UMR 6158 LIMOS, F-42000 Saint-Étienne, France"
+    }
+]

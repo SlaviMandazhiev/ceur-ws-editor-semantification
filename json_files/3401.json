@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Sebastian Tramp",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "eccenca GmbH, Hainstraße 8, 04109 Leipzig, Germany"
+    },
+    {
+        "object_named_as": "Ricardo Usbeck",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Hamburg, Mittelweg 177, 20148 Hamburg, Germany"
+    },
+    {
+        "object_named_as": "Natanael Arndt",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "eccenca GmbH, Hainstraße 8, 04109 Leipzig, Germany"
+    },
+    {
+        "object_named_as": "Julia Holze",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Applied Informatics, Goerdelerring 9, 04109 Leipzig, Germany"
+    },
+    {
+        "object_named_as": "Sören Auer",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Technische Informationsbibliothek (TIB), Welfengarten 1 B, 30167 Hannover, Germany"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "object_named_as": "Vito Walter Anelli",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Polytechnic University of Bari, Italy"
+    },
+    {
+        "object_named_as": "Pierpaolo Basile",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari Aldo Moro, Italy"
+    },
+    {
+        "object_named_as": "Gerard De Melo",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Hasso Plattner Institute, Germany and University of Potsdam, Germany"
+    },
+    {
+        "object_named_as": "Francesco Maria Donini",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Tuscia, Italy"
+    },
+    {
+        "object_named_as": "Antonio Ferrara",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Polytechnic University of Bari, Italy"
+    },
+    {
+        "object_named_as": "Cataldo Musto",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari Aldo Moro, Italy"
+    },
+    {
+        "object_named_as": "Fedelucio Narducci",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Polytechnic University of Bari, Italy"
+    },
+    {
+        "object_named_as": "Azzurra Ragone",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari Aldo Moro, Italy"
+    },
+    {
+        "object_named_as": "Markus Zanker",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Italy"
+    }
+]

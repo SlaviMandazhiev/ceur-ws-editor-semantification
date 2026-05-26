@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Manuela Hürlimann",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Zurich University of Applied Sciences (ZHAW), Centre for Artificial Intelligence, 8400 Winterthur, Switzerland"
+    },
+    {
+        "object_named_as": "Roberto Mastropietro",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Department of Innovative Technologies, 6962 Lugano-Viganello, Switzerland"
+    },
+    {
+        "object_named_as": "Daniele Puccinelli",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Department of Innovative Technologies, 6962 Lugano-Viganello, Switzerland"
+    },
+    {
+        "object_named_as": "Fabio Rinaldi",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Department of Innovative Technologies, 6962 Lugano-Viganello, Switzerland"
+    },
+    {
+        "object_named_as": "Mark Cieliebak",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Zurich University of Applied Sciences (ZHAW), Centre for Artificial Intelligence, 8400 Winterthur, Switzerland"
+    }
+]

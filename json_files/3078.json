@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Viviana Mascardi",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi - DIBRIS, Università di Genova, Genova, Italy"
+    },
+    {
+        "object_named_as": "Matteo Palmonari",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Department of Informatics, Systems and Communication, Università degli Studi di Milano-Bicocca, Milano, Italy"
+    },
+    {
+        "object_named_as": "Giuseppe Vizzari",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Department of Informatics, Systems and Communication, Università degli Studi di Milano-Bicocca, Milano, Italy"
+    }
+]

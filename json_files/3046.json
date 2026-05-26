@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Ilona Buchem",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Beuth Hochschule für Technik Berlin"
+    },
+    {
+        "object_named_as": "Mikhail Fominykh",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "NTNU"
+    },
+    {
+        "object_named_as": "Ralf Klamma",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "RWTH Aachen University"
+    },
+    {
+        "object_named_as": "Milos Kravcik",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "DFKI"
+    },
+    {
+        "object_named_as": "Viktoria Pammer-Schindler",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "TU Graz"
+    },
+    {
+        "object_named_as": "Elvira Popescu",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Craiova"
+    },
+    {
+        "object_named_as": "Fridolin Wild",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Open University of the UK."
+    }
+]

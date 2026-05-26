@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Matthias Baldauf",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Eastern Switzerland University of Applied Sciences, St.Gallen, Switzerland"
+    },
+    {
+        "object_named_as": "Peter Fröhlich",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "AIT Austrian Institute of Technology, Vienna, Austria"
+    },
+    {
+        "object_named_as": "Virpi Roto",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Aalto University, Espoo, Finland"
+    },
+    {
+        "object_named_as": "Philippe Palanque",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Toulouse, Toulouse, France"
+    },
+    {
+        "object_named_as": "Siân Lindley",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Microsoft Research, Cambridge, United Kingdom"
+    },
+    {
+        "object_named_as": "Jon Rogers",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Northumbria University, Newcastle upon Tyne, United Kingdom"
+    },
+    {
+        "object_named_as": "Wendy Ju",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Cornell University, USA"
+    },
+    {
+        "object_named_as": "Manfred Tscheligi",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "University of Salzburg, Salzburg, Austria"
+    }
+]

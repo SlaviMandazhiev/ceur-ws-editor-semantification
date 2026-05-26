@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Adrian Paschke",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Fraunhofer FOKUS and Freie Universität Berlin, Germany"
+    },
+    {
+        "object_named_as": "Georg Rehm",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "DFKI, Germany"
+    },
+    {
+        "object_named_as": "Clemens Neudecker",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Staatsbibliothek zu Berlin, Germany"
+    },
+    {
+        "object_named_as": "Lydia Pintscher",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Wikimedia, Germany"
+    }
+]

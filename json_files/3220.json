@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Tobias Backes",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "GESIS -- Leibniz Institute for the Social Sciences, Knowledge Technologies for the Social Sciences, Information & Data Retrieval"
+    },
+    {
+        "object_named_as": "Anastasiia Iurshina",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Parallel and Distributed Systems, University of Stuttgart"
+    },
+    {
+        "object_named_as": "Philipp Mayr",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "GESIS -- Leibniz Institute for the Social Sciences, Knowledge Technologies for the Social Sciences, Information & Data Retrieval"
+    }
+]

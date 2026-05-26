@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Ghislain Auguste Atemezing",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "MONDECA, SA"
+    },
+    {
+        "object_named_as": "Lionel Medini",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "LIRIS Lab, Univ Lyon, UCBL, CNRS, INSA Lyon, Centrale Lyon, Univ Lyon 2, LIRIS, UMR5205"
+    },
+    {
+        "object_named_as": "Frédérique Laforest",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "LIRIS Lab, Univ Lyon, INSA Lyon, CNRS, UCBL, Centrale Lyon, Univ Lyon 2, LIRIS"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Anastasia Dimou",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "KU Leuven, Belgium"
+    },
+    {
+        "object_named_as": "Armin Haller",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Australian National University, Australia"
+    },
+    {
+        "object_named_as": "Anna Lisa Gentile",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research, USA"
+    },
+    {
+        "object_named_as": "Petar Ristoski",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "eBay, USA"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Himan Abdollahpouri",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "* Spotify, USA"
+    },
+    {
+        "object_named_as": "Shaghayegh Sahebi",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "** University at Albany, State University of New York, USA"
+    },
+    {
+        "object_named_as": "Mehdi Elahi",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "*** University of Bergen, Norway "
+    },
+    {
+        "object_named_as": "Masoud Mansoury",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "**** University of Amsterdam, the Netherlands"
+    },
+    {
+        "object_named_as": "Babak Loni",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "***** Meta, the Netherlands "
+    },
+    {
+        "object_named_as": "Zahra Nazari",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "* Spotify, USA"
+    },
+    {
+        "object_named_as": "Maria Dimakopoulou",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "* "
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Hans Weigand",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Tilburg University, Research Laboratory"
+    },
+    {
+        "object_named_as": "Tiago Prince Sales",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Free Unviersity of Bozen-Bolzano, Faculty of Computer Science"
+    },
+    {
+        "object_named_as": "Paul Johanesson",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Stockholm University, Research Laboratory"
+    }
+]

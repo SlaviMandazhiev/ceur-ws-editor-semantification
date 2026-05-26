@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Tsuyoshi Nakajima",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Shibaura Institute of Technology"
+    },
+    {
+        "object_named_as": "Toshihiro Komiyama",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "NEC Corporation"
+    },
+    {
+        "object_named_as": "Eunjong Choi",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Kyoto Institute of Technology"
+    },
+    {
+        "object_named_as": "Erina Makihara",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Doshisha University"
+    },
+    {
+        "object_named_as": "Hironori Washizaki",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Waseda University"
+    }
+]

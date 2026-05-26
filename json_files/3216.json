@@ -1,0 +1,56 @@
+[
+    {
+        "object_named_as": "Christian Janiesch",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "TU Dortmund University, Department of Computer Science, 44227 Dortmund, Germany"
+    },
+    {
+        "object_named_as": "Chiara Di Francescomarino",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Fondazione Bruno Kessler, Center for Information and Communication Technology, 38122 Trento, Italy"
+    },
+    {
+        "object_named_as": "Thomas Grisold",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universität Liechtenstein, Institute for Information Systems, 9490 Vaduz, Liechtenstein"
+    },
+    {
+        "object_named_as": "Akhil Kumar",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Pennsylvania State University, Smeal College of Business, United States of America"
+    },
+    {
+        "object_named_as": "Jan Mendling",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Humboldt-Universität zu Berlin, Faculty of Mathematics and Natural Sciences, 12489 Berlin, Germany"
+    },
+    {
+        "object_named_as": "Brian Pentland",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Michigan State University, Broad College of Business, East Lansing, MI 48824, United States of America"
+    },
+    {
+        "object_named_as": "Hajo Reijers",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Utrecht University, Department of Information and Computing Sciences, 3584 CC Utrecht, The Netherlands"
+    },
+    {
+        "object_named_as": "Mathias Weske",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Hasso-Plattner-Institut, Research Group Business Process Technology, 14482 Potsdam, Germany"
+    },
+    {
+        "object_named_as": "Robert Winter",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "Universität St.Gallen (HSG), Institute of Information Management, 9000 St.Gallen, Switzerland"
+    }
+]

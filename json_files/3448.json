@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Franco Maria Nardini",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Information Science and Technologies Institute (ISTI) of the National Research Council of Italy (CNR), Italy"
+    },
+    {
+        "object_named_as": "Nicola Tonellotto",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Pisa, Italy"
+    },
+    {
+        "object_named_as": "Guglielmo Faggioli",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Padova, Italy"
+    },
+    {
+        "object_named_as": "Antonio Ferrara",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Polytechnic University of Bari, Italy"
+    }
+]

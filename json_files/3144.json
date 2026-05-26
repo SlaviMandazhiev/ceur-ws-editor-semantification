@@ -1,0 +1,62 @@
+[
+    {
+        "object_named_as": "Joao Araujo",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "NOVA University Lisbon, Quinta da Torre, Caparica, 2829-516, Portugal"
+    },
+    {
+        "object_named_as": "Jose Luis de la Vara",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Castilla-La Mancha, Avda. España s/n, 02071 Albacete, Spain "
+    },
+    {
+        "object_named_as": "Isabel Sofia Brito",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Instituto Politecnico de Beja, R. Pedro Soares, 7800-295, Beja, Portugal "
+    },
+    {
+        "object_named_as": "Nelly Condori-Fernandez",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Universidad de Coruña, Rua da Maestranza 9, 15001 A Coruña, Spain "
+    },
+    {
+        "object_named_as": "Leticia Duboc",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "La Salle – Ramon Llull University, Carrer de Sant Joan de la Salle, 42, 08022 Barcelona, Spain "
+    },
+    {
+        "object_named_as": "Giovanni Giachetti",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Andrés Bello, Antono Varas 880, Providencia, Santiago, Chile "
+    },
+    {
+        "object_named_as": "Beatriz Marín",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Universitat Politecnica de Valencia, Camino de Vera s/n, Valencia, 46021, Spain "
+    },
+    {
+        "object_named_as": "Estefania Serral",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "KU Leuven, Naamsestraat 69, box 3500, 3000 Leuven, Belgium "
+    },
+    {
+        "object_named_as": "Alessandra Bagnato",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "Softeam, 3 Avenue du centre, Guyancourt, 78280, France "
+    },
+    {
+        "object_named_as": "Lidia Lopez",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "Barcelona Supercomputing Center, Plaça Eusebi Güell, 1-3, Barcelona, Spain "
+    }
+]

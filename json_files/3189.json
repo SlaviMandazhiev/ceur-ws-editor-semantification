@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Alessandro Renda",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Pisa, Department of Information Engineering"
+    },
+    {
+        "object_named_as": "Pietro Ducange",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Pisa, Department of Information Engineering"
+    },
+    {
+        "object_named_as": "Tamas Borsos",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Ericsson, Hungary"
+    },
+    {
+        "object_named_as": "Hannu Flinck",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Nokia, Finland"
+    }
+]

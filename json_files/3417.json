@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Salvatore Anzalone",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Université Paris 8, Laboratoire CHArt"
+    },
+    {
+        "object_named_as": "Gloria Beraldo",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Consiglio Nazionale delle Ricerche , Istituto di Scienze e Tecnologie della Cognizione"
+    },
+    {
+        "object_named_as": "Luca Buoncompagni",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Università di Genova, Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi"
+    },
+    {
+        "object_named_as": "Alberto Castellini",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Università di Verona, Dipartimento di Informatica"
+    },
+    {
+        "object_named_as": "Alberto Finzi",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Università di Napoli \"Federico II\", Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione"
+    }
+]

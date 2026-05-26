@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "María Navas-Loro",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Ontology Engineering Group, Universidad Politécnica de Madrid, Madrid, Spain"
+    },
+    {
+        "object_named_as": "Carlos Badenes-Olmedo",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Ontology Engineering Group, Universidad Politécnica de Madrid, Madrid, Spain"
+    },
+    {
+        "object_named_as": "Manolis Koubarakis",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "National and Kapodistrian University of Athens, Department of Informatics and Telecommunications, University Campus, Ilisia, Athens, Greece"
+    },
+    {
+        "object_named_as": "Jose Luis Redondo-García",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Amazon Alexa, Cambridge, UK"
+    },
+    {
+        "object_named_as": "Sabrina Kirrane",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Vienna University of Economics and Business, Vienna, Austria "
+    },
+    {
+        "object_named_as": "Nandana Mihindukulasooriya",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research AI, Dublin, Ireland"
+    },
+    {
+        "object_named_as": "Ken Satoh",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Principles of Informatics Research Division, National Institute of Informatics, 2 Chome-1-2 Hitotsubashi, Chiyoda City, Tokyo, Japan "
+    },
+    {
+        "object_named_as": "Maribel Acosta",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Ruhr-University Bochum, Bochum, Germany"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Alan Said",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Department of Applied Information Technology, University of Gothenburg, Sweden"
+    },
+    {
+        "object_named_as": "Eva Zangerle",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Department of Computer Science, University of Innsbruck, Austria"
+    },
+    {
+        "object_named_as": "Christine Bauer",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Department of Artificial Intelligence and Human Interfaces, Paris Lodron University Salzburg, Austria"
+    }
+]

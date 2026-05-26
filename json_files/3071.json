@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Gemma Catolino",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Tilburg University, Jheronimus Academy of Data Science"
+    },
+    {
+        "object_named_as": "Dario Di Nucci",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Tilburg University, Jheronimus Academy of Data Science"
+    },
+    {
+        "object_named_as": "Damian A. Tamburri",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Eindhoven University of Technology, Jheronimus Academy of Data Science"
+    }
+]

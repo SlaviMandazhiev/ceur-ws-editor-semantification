@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Emanuel Sallinger",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "TU Wien, Vienna, Austria, University of Oxford, Oxford, UK"
+    },
+    {
+        "object_named_as": "Sahar Vahdati",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "InfAI , Dresden, Germany, University of Oxford, Oxford, UK"
+    },
+    {
+        "object_named_as": "Mojtaba Nayyeri",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Bonn , Bonn, Germany"
+    },
+    {
+        "object_named_as": "Lianlong Wu",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Oxford, Oxford, UK"
+    }
+]

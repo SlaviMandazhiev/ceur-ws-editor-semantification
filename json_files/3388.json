@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Sérgio Guerreiro",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "INESC-ID and Instituto Superior Técnico / University of Lisbon, Portugal"
+    },
+    {
+        "object_named_as": "Cristine Griffo",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Italy"
+    },
+    {
+        "object_named_as": "Maria Jacob",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Twente, The Netherlands"
+    }
+]

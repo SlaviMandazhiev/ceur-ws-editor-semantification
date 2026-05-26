@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "María Luisa Sein-Echaluce",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Zaragoza, Department of Applied Mathematics, Zaragoza, Spain"
+    },
+    {
+        "object_named_as": "Ángel Fidalgo-Blanco",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Technical University of Madrid, Department of Geologic and Mining Engineering, Madrid, Spain "
+    },
+    {
+        "object_named_as": "Francisco J. García Peñalvo",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Salamanca, Department of Computer and Automatics, Salamanca, Spain"
+    }
+]

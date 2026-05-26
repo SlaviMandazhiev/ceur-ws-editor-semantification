@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Anatoly Bessalov",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Borys Grinchenko Kyiv University, Kyiv, Ukraine"
+    },
+    {
+        "object_named_as": "Dmytro Ageyev",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Kharkiv National University of Radio Electronics, Kharkiv, Ukraine"
+    },
+    {
+        "object_named_as": "Valeriy Lahno",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "National University of Life and Environmental Sciences, Kyiv, Ukraine"
+    },
+    {
+        "object_named_as": "Volodymyr Sokolov",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Borys Grinchenko Kyiv University, Kyiv, Ukraine"
+    }
+]

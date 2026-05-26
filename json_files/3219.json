@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Julia Neidhardt",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "TU Wien, Austria"
+    },
+    {
+        "object_named_as": "Wolfgang Wörndl",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "TU München, Germany"
+    },
+    {
+        "object_named_as": "Tsvi Kuflik",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "The University of Haifa, Israel"
+    },
+    {
+        "object_named_as": "Dmitri Goldenberg",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Booking.com, Israel"
+    },
+    {
+        "object_named_as": "Markus Zanker",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen/Bolzano, Italy"
+    }
+]

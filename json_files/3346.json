@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Jose M. Parente de Oliveira",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Aeronautics Institute of Technology, Department of Computer Science, S. Jose dos Campos/SP, Brazil"
+    },
+    {
+        "object_named_as": "Daniela Schmidt",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Federal university of Rio Grande do Sul, Department of Informatics, Porto Alegre/RS, Brazil"
+    },
+    {
+        "object_named_as": "Luan Fonseca Garcia",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Federal university of Rio Grande do Sul, Department of Informatics, Porto Alegre/RS, Brazil"
+    },
+    {
+        "object_named_as": "Eduardo Ribeiro Felipe",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Universidade Federal de Itajubá , Institute of Technological Sciences, Itajubá/MG, Brazil"
+    }
+]

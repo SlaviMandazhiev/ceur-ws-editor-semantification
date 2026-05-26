@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Damien Graux",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Inria, Sophia Antipolis, France"
+    },
+    {
+        "object_named_as": "Fabrizio Orlandi",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "ADAPT Centre, Trinity College Dublin, Ireland"
+    },
+    {
+        "object_named_as": "Emetis Niazmand",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Leibniz University Hannover and Technische Informationsbibliothek (TIB), Germany"
+    },
+    {
+        "object_named_as": "Gabriela Ydler",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Leibniz University Hannover and Technische Informationsbibliothek (TIB), Germany"
+    },
+    {
+        "object_named_as": "Maria-Esther Vidal",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Leibniz University Hannover and Technische Informationsbibliothek (TIB), Germany"
+    }
+]

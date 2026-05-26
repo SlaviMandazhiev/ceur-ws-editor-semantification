@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Lucie-Aimée Kaffee",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Copenhagen, Denmark"
+    },
+    {
+        "object_named_as": "Simon Razniewski",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Max Planck Institute for Informatics, Germany"
+    },
+    {
+        "object_named_as": "Gabriel Amaral",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "King's College London, UK"
+    },
+    {
+        "object_named_as": "Kholoud Saad Alghamdi",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "King's College London, UK"
+    }
+]

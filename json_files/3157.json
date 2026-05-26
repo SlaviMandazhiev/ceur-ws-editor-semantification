@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Timo Homburg",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Mainz University Of Applied Sciences, i3mainz -- Institute for Spatial Information & Surveying Technology, Germany"
+    },
+    {
+        "object_named_as": "Beyza Yaman",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Trinity College Dublin, ADAPT Centre, Ireland "
+    },
+    {
+        "object_named_as": "Mohamed Ahmed Sherif",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Paderborn University, DICE group, Germany"
+    },
+    {
+        "object_named_as": "Armin Haller",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Australian National University, Australia"
+    }
+]

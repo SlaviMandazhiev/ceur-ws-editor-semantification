@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Tony Clark",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Aston University, College of Engineering and Physical Sciences, Birmingham, UK"
+    },
+    {
+        "object_named_as": "Steffen Zschaler",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "King's College London, London, UK"
+    },
+    {
+        "object_named_as": "Balbir Barn",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Middlesex University, Faculty of Science and Technology, London, UK"
+    },
+    {
+        "object_named_as": "Kurt Sandkuhl",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Rostock, Institue of Computer Science, Rostock, Germany"
+    }
+]

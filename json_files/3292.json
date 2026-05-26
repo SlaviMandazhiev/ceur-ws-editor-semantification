@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Ioana Jivet",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Goethe University Frankfurt, Germany"
+    },
+    {
+        "object_named_as": "Daniele Di Mitri",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "DIPF, Germany"
+    },
+    {
+        "object_named_as": "Jan Schneider",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "null"
+    },
+    {
+        "object_named_as": "Zacharoula Papamitsiou",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "SINTEF, Norway"
+    },
+    {
+        "object_named_as": "Mikhail Fominykh",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Norwegian University of Science and Technology, Norway"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Giuseppe De Giacomo",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Sapienza, University of Rome, Italy"
+    },
+    {
+        "object_named_as": "Antonella Guzzo",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Calabria, Italy"
+    },
+    {
+        "object_named_as": "Marco Montali",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Italy"
+    },
+    {
+        "object_named_as": "Lior Limonad",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research, Haifa, Israel"
+    },
+    {
+        "object_named_as": "Fabiana Fournier",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research, Haifa, Israel"
+    },
+    {
+        "object_named_as": "Tagatha Chakraborti",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research, Cambridge, USA"
+    }
+]

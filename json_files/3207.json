@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Aleksandra Gruca",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Silesian University of Technology, Poland"
+    },
+    {
+        "object_named_as": "Caleb Robinson",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Microsoft AI for Good Research Lab, USA"
+    },
+    {
+        "object_named_as": "Naoto Yokoya",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Tokyo, Japan / RIKEN Center for Advanced Intelligence Project, Japan"
+    },
+    {
+        "object_named_as": "Jun Zhou",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Griffith University, Australia"
+    },
+    {
+        "object_named_as": "Pedram Ghamisi",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Advanced Research in Artificial Intelligence, Austria / Helmholtz-Zentrum Dresden-Rossendorf, Germany"
+    }
+]

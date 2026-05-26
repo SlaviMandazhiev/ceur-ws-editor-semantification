@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Gavin Abercrombie",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Heriot-Watt University, Scotland"
+    },
+    {
+        "object_named_as": "Valerio Basile",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Turin, Italy"
+    },
+    {
+        "object_named_as": "Davide Bernardi",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Amazon Alexa, Italy"
+    },
+    {
+        "object_named_as": "Shiran Dudy",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Northeastern University, United States"
+    },
+    {
+        "object_named_as": "Simona Frenda",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Turin, Italy"
+    },
+    {
+        "object_named_as": "Lucy Havens",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Edinburgh, Scotland"
+    },
+    {
+        "object_named_as": "Elisa Leonardelli",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Fondazione Bruno Kessler, Italy"
+    },
+    {
+        "object_named_as": "Sara Tonelli",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": null
+    }
+]

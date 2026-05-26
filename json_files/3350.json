@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Marco Pegoraro",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Chair of Process and Data Science (PADS), RWTH Aachen University, Ahornstr. 55, 52074 Aachen, Germany"
+    },
+    {
+        "object_named_as": "Davide Bacciu",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Department of Computer Science, University of Pisa, Pisa, Italy"
+    },
+    {
+        "object_named_as": "Andrea Burattin",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Technical University of Denmark, 2800 Kgs. Lyngby, Copenhagen, Denmark"
+    },
+    {
+        "object_named_as": "Antonio Carta",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Department of Computer Science, University of Pisa, Pisa, Italy"
+    },
+    {
+        "object_named_as": "Patrizio Dazzi",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "ISTI-CNR, Pisa, Italy"
+    },
+    {
+        "object_named_as": "Massimiliano de Leoni",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Department of Mathematics, University of Padua, Padua, Italy"
+    },
+    {
+        "object_named_as": "Magdalini Eirinaki",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Computer Engineering Department, San Jose State University (SJSU), San Jose, California, USA"
+    },
+    {
+        "object_named_as": "Iraklis Varlamis",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Department of Informatics and Telematics, Harokopio University of Athens, Omirou 9, Tavros, 17778 Athens, Greece"
+    }
+]

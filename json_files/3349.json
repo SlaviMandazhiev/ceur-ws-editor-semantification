@@ -1,0 +1,14 @@
+[
+    {
+        "object_named_as": "Robert Sablatnig",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "TU Wien, Institute of Visual Computing & Human-Centered Technology, Computer Vision Lab, 1040 Vienna, Austria"
+    },
+    {
+        "object_named_as": "Florian Kleber",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "ACME Inc., Research Laboratory, 8888 Technotown, Othercountry "
+    }
+]

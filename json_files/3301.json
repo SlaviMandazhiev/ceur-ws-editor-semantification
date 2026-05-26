@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Sylvia Melzer",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universität Hamburg, Centre for the Study of Manuscript Cultures"
+    },
+    {
+        "object_named_as": "Stefan Thiemann",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Universität zu Lübeck, Institute of Information Systems"
+    },
+    {
+        "object_named_as": "Hagen Peukert",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universität Hamburg, Center for Sustainable Research Data Management"
+    }
+]

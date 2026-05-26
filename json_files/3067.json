@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Ahmed Hadj Kacem",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Sfax, ReDCAD, Sfax, Tunisia"
+    },
+    {
+        "object_named_as": "Slim Kallel",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Sfax, ReDCAD, Sfax, Tunisia"
+    },
+    {
+        "object_named_as": "Faiza Belala",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Constantine 2 University Abdelhamid Mehri, LIRE Laboratory, Constantine, Algeria"
+    },
+    {
+        "object_named_as": "Meriem Belguidoum",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Constantine 2 University Abdelhamid Mehri, LIRE Laboratory, Constantine, Algeria"
+    },
+    {
+        "object_named_as": "Mohamed Jmaiel",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Sfax, ReDCAD, Sfax, Tunisia"
+    },
+    {
+        "object_named_as": "Ismael Bouassida Rodriguez",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Sfax, ReDCAD, Sfax, Tunisia"
+    }
+]

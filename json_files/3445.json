@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Reyer Zwiggelaar",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Aberystwyth University"
+    },
+    {
+        "object_named_as": "Geetha Ganesan",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Advanced Computing Research Society"
+    },
+    {
+        "object_named_as": "Qiang (Shawn) Cheng",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Kentucky"
+    },
+    {
+        "object_named_as": "Ke-Lin Du",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Concordia University"
+    },
+    {
+        "object_named_as": "Srinivasa Rao Satti",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Norwegian Institute of Science and Technology"
+    }
+]

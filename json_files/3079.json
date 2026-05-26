@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Georg Krempl",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Utrecht University, Faculty of Science, 3512 JE Utrecht, Netherlands"
+    },
+    {
+        "object_named_as": "Vincent Lemaire",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Orange Labs, 22300 Lannion, France "
+    },
+    {
+        "object_named_as": "Daniel Kottke",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Kassel, Faculty of Electrical Engineering and Computer Science, 34121 Kassel, Germany"
+    },
+    {
+        "object_named_as": "Andreas Holzinger",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Graz University of Technology, Institute of Interactive Systems & Data Science, 8010 Graz, Austria"
+    },
+    {
+        "object_named_as": "Barbara Hammer",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Bielefeld, CITEC Center of Excellence, Inspiration 1, 33619 Bielefeld, Germany"
+    }
+]

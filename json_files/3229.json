@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Dörthe Arndt",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Technische Universität Dresden, Germany"
+    },
+    {
+        "object_named_as": "Ahmet Soylu",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "OsloMet - Oslo Metropolitan University, Norway"
+    },
+    {
+        "object_named_as": "Jan Vanthienen",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "KU Leuven, Belgium"
+    },
+    {
+        "object_named_as": "Evgeny Kharlamov",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Bosch Center for Artificial Intelligence, Germany"
+    },
+    {
+        "object_named_as": "Alexander Steen",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Greifswald, Germany"
+    }
+]

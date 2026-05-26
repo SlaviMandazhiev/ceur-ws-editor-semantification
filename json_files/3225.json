@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Fabrizio Orlandi",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "ADAPT Centre, Trinity College Dublin, Ireland"
+    },
+    {
+        "object_named_as": "Damien Graux",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Inria, Sophia Antipolis, France"
+    },
+    {
+        "object_named_as": "Julio Cesar dos Reis",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Computing of the University of Campinas: UNICAMP, Brazil"
+    },
+    {
+        "object_named_as": "Maria-Esther Vidal",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Technische Informationsbibliothek (TIB), Germany"
+    }
+]

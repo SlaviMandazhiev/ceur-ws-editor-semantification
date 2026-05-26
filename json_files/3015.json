@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Elena Cabrio",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Université Cote d'Azur, Inria, CNRS, I3S, France"
+    },
+    {
+        "object_named_as": "Danilo Croce",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Department of Enterprise Engineering, University of Rome \"Tor Vergata\", Italy"
+    },
+    {
+        "object_named_as": "Lucia C. Passaro",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Department of Computer Science, University of Pisa, Italy"
+    },
+    {
+        "object_named_as": "Rachele Sprugnoli",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Università Cattolica del Sacro Cuore, Italy"
+    }
+]

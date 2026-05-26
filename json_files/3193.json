@@ -1,0 +1,74 @@
+[
+    {
+        "object_named_as": "Joaquín Arias",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Rey Juan Carlos, Spain"
+    },
+    {
+        "object_named_as": "Roberta Calegari",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bologna, Italy"
+    },
+    {
+        "object_named_as": "Luke Dickens",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University College London, UK"
+    },
+    {
+        "object_named_as": "Wolfgang Faber",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Klagenfurt, Austria"
+    },
+    {
+        "object_named_as": "Jorge Fandinno",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Nebraska at Omaha, USA"
+    },
+    {
+        "object_named_as": "Gopal Gupta",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "The University of Texas at Dallas, USA"
+    },
+    {
+        "object_named_as": "Markus Hecher",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Vienna University of Technology, Austria"
+    },
+    {
+        "object_named_as": "Daniela Inclezan",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Miami University, USA"
+    },
+    {
+        "object_named_as": "Emily LeBlanc",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "US Naval Research Lab, USA"
+    },
+    {
+        "object_named_as": "Michael Morak",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "University of Klagenfurt, Austria"
+    },
+    {
+        "object_named_as": "Elmer Salazar",
+        "series_ordinal": 11,
+        "orcid_id": null,
+        "affiliation_string": "The University of Texas at Dallas, USA"
+    },
+    {
+        "object_named_as": "Jessica Zangari",
+        "series_ordinal": 12,
+        "orcid_id": null,
+        "affiliation_string": "University of Calabria, Italy "
+    }
+]

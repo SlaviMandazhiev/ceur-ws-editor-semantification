@@ -1,0 +1,14 @@
+[
+    {
+        "object_named_as": "Peter Lucas",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Department of Data Science, Faculty of EEMCS, Department of Data Science, University of Twente, the Netherlands"
+    },
+    {
+        "object_named_as": "Fabio Stella",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Models and Algorithms for Data and Text Mining, Università degli Studi di Milano-Bicocca, Milano, Italy"
+    }
+]

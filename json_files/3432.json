@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Artur S. d'Avila Garcez",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "City, University of London, UK"
+    },
+    {
+        "object_named_as": "Tarek R. Besold",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Sony AI, Barcelona, Spain"
+    },
+    {
+        "object_named_as": "Marco Gori",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Siena, Italy"
+    },
+    {
+        "object_named_as": "Ernesto Jiménez-Ruiz",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "SIRIUS, University of Oslo, Norway"
+    }
+]

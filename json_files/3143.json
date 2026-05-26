@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Özlem Özgöbek",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Norwegian University of Science and Technology, Department of Computer Science, Trondheim, Norway"
+    },
+    {
+        "object_named_as": "Andreas Lommatzsch",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Berlin Institute of Technology, Berlin, Germany "
+    },
+    {
+        "object_named_as": "Benjamin Kille",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Norwegian University of Science and Technology, Department of Computer Science, Trondheim, Norway"
+    },
+    {
+        "object_named_as": "Peng Liu",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Penn State University, Pennsylvania, USA "
+    },
+    {
+        "object_named_as": "Zhixin Pu",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Penn State University, Pennsylvania, USA "
+    },
+    {
+        "object_named_as": "Jon Atle Gulla",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Norwegian University of Science and Technology, Department of Computer Science, Trondheim, Norway"
+    }
+]

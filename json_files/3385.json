@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Xuke Hu",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "German Aerospace Center, Germany"
+    },
+    {
+        "object_named_as": "Yingjie Hu",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University at Buffalo, USA"
+    },
+    {
+        "object_named_as": "Bernd Resch",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Salzburg, Austria"
+    },
+    {
+        "object_named_as": "Jens Kersten",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "German Aerospace Center, Germany"
+    },
+    {
+        "object_named_as": "Kristin Stock",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Massey University, New Zealand"
+    }
+]

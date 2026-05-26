@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Dmytro Chumachenko",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "National Aerospace University \"Kharkiv Aviation Institute\", Ukraine"
+    },
+    {
+        "object_named_as": "Oleksandr Sokolov",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Nicolaus Copernicus University, Poland "
+    },
+    {
+        "object_named_as": "Natalia Kryvinska",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Comenius University in Bratislava, Slovak Republic "
+    },
+    {
+        "object_named_as": "Serhii Yakovlev",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "National Aerospace University \"Kharkiv Aviation Institute\", Ukraine"
+    }
+]

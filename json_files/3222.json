@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Peter Brusilovsky",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Pittsburgh, School of Information Sciences"
+    },
+    {
+        "object_named_as": "Marco de Gemmis",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari Aldo Moro, Department of Computer Science"
+    },
+    {
+        "object_named_as": "Alexander Felfernig",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Graz University of Technology, Institute for Software Technology"
+    },
+    {
+        "object_named_as": "Pasquale Lops",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari Aldo Moro, Department of Computer Science"
+    },
+    {
+        "object_named_as": "Marco Polignano",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": null
+    },
+    {
+        "object_named_as": "Giovanni Semeraro",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": null
+    },
+    {
+        "object_named_as": "Martijn C. Willemsen",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Eindhoven University of Technology, Department of Industrial Engineering and Innovation Sciences"
+    }
+]

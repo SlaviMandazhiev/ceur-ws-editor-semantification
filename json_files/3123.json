@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Gunjan Singh",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "KRaCR Lab, IIIT, Delhi, India"
+    },
+    {
+        "object_named_as": "Raghava Mutharaju",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "IBM T.J. Watson Research Center, USA"
+    },
+    {
+        "object_named_as": "Pavan Kapanipathi",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "IBM T.J. Watson Research Center, USA"
+    }
+]

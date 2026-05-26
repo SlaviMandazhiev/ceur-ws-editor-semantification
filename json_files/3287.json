@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Debora Nozza",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Department of Computing Sciences, Bocconi University, Milan, Italy"
+    },
+    {
+        "object_named_as": "Lucia C. Passaro",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Department of Computer Science, University of Pisa, Pisa, Italy"
+    },
+    {
+        "object_named_as": "Marco Polignano",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Department of Computer Science, University of Bari, Bari, Italy"
+    }
+]

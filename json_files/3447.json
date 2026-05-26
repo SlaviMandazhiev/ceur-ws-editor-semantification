@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Sanju Tiwari",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Autonoma de Tamaulipas, Mexico"
+    },
+    {
+        "object_named_as": "Nandana Mihindukulasooriya",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research, Ireland"
+    },
+    {
+        "object_named_as": "Francesco Osborne",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "KMi, The Open University, UK / University of Milano-Bicocca, Italy"
+    },
+    {
+        "object_named_as": "Dimitris Kontokostas",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Diffbot, Greece"
+    },
+    {
+        "object_named_as": "Jennifer D’Souza",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "TIB, Germany"
+    },
+    {
+        "object_named_as": "Mayank Kejriwal",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Southern California, USA"
+    },
+    {
+        "object_named_as": "Edgard Marx",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Eccenca & HTWK, Germany"
+    }
+]

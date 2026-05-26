@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Dmytro Chumachenko",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "National Aerospace University 'Kharkiv Aviation Institute', Ukraine"
+    },
+    {
+        "object_named_as": "Adam Wojciechowski",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Lodz University of Technology, Poland "
+    },
+    {
+        "object_named_as": "Sergiy Yakovlev",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "National Aerospace University 'Kharkiv Aviation Institute', Ukraine"
+    },
+    {
+        "object_named_as": "Marcus Frohme",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Technical University of Applied Sciences Wildau, Germany "
+    }
+]

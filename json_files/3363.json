@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Vida Groznik",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Assistant Professor at University of Primorska; Researcher at University of Ljubljana; Co-founder and CEO at Neus Diagnostics"
+    },
+    {
+        "object_named_as": "Aleksander Sadikov",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Assistant Professor and Head of Artificial Intelligence Laboratory at University of Ljubljana; Co-founder and CTO at NEUS Diagnostics "
+    },
+    {
+        "object_named_as": "Umberto Michelucci",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Founder and chief AI scientist TOELT LLC, senior lecturer Lucerne university of applied science"
+    },
+    {
+        "object_named_as": "Marco Deriu",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Department of Mechanical and Aerospace Engineeing, Politecnico di Torino"
+    }
+]

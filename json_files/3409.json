@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Benny Kimelfeld",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Technion University, The Henry and Marilyn Taub Faculty of Computer Science"
+    },
+    {
+        "object_named_as": "Maria Vanina Martinez",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Artificial Intelligence Research Institute (IIIA-CSIC)"
+    },
+    {
+        "object_named_as": "Renzo Angles",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Talca, Computer Science Department"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Daniel Kottke",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Kassel, Faculty of Electrical Engineering and Computer Science"
+    },
+    {
+        "object_named_as": "Georg Krempl",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Utrecht University, Faculty of Science"
+    },
+    {
+        "object_named_as": "Andreas Holzinger",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Natural Resources and Life Sciences, Department of Forest and Soil Sciences, Institute of Forest Engineering"
+    },
+    {
+        "object_named_as": "Barbara Hammer",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Bielefeld, CITEC Center of Excellence"
+    }
+]

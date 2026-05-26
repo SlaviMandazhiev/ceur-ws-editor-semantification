@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Martin Zelm",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Interop-VLab, Brussels, Belgium"
+    },
+    {
+        "object_named_as": "Andrés Boza",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Universitat Politècnica de València, Valencia, Spain"
+    },
+    {
+        "object_named_as": "Ramona-Diana León",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universitat Politècnica de València, Valencia, Spain"
+    },
+    {
+        "object_named_as": "Raul Rodriguez-Rodriguez",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": null
+    }
+]

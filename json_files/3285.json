@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Pasquale Lops",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari - Aldo Moro, Department of Computer Science, Bari, Italy"
+    },
+    {
+        "object_named_as": "Pierpaolo Basile",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari - Aldo Moro, Department of Computer Science, Bari, Italy"
+    },
+    {
+        "object_named_as": "Lucia Siciliani",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari - Aldo Moro, Department of Computer Science, Bari, Italy"
+    },
+    {
+        "object_named_as": "Vincenzo Taccardi",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari - Aldo Moro, Department of Computer Science, Bari, Italy"
+    },
+    {
+        "object_named_as": "Marco Di Ciano",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "InnovaPuglia S.p.A., Research and Development Department, Bari, Italy "
+    },
+    {
+        "object_named_as": "Nicola Lopane",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Regione Puglia, Bari, Italy"
+    }
+]

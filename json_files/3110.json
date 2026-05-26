@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Tara Andrews",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Vienna, Austria"
+    },
+    {
+        "object_named_as": "Franziska Diehr",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Freie Universität Berlin, Germany"
+    },
+    {
+        "object_named_as": "Thomas Efer",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Saxon Academy of Sciences and Humanities, Leipzig, Germany"
+    },
+    {
+        "object_named_as": "Andreas Kuczera",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Applied Science (THM), Gießen, Germany"
+    },
+    {
+        "object_named_as": "Joris van Zundert",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "KNAW Huygens Institute, Amsterdam, Netherlands"
+    }
+]

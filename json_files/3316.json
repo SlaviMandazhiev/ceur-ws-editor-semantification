@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Jorge Melegati",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Faculty of Computer Science"
+    },
+    {
+        "object_named_as": "Abdullah Aldaeej",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Imam Abdulrahman Bin Faisal University, Department of Management Information Systems"
+    },
+    {
+        "object_named_as": "Luciana Zaina",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Federal University of São Carlos, Department of Computing"
+    },
+    {
+        "object_named_as": "Dimitri Petrik",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Stuttgart, Institute of Business Administration"
+    },
+    {
+        "object_named_as": "Henry Edison",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Blekinge Institute of Technology"
+    }
+]

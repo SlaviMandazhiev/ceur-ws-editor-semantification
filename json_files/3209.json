@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Kristijonas Čyras",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Ericsson Research, Santa Clara, CA, United States"
+    },
+    {
+        "object_named_as": "Timotheus Kampik",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Umeå University & SAP Signavio, Umeå, Sweden"
+    },
+    {
+        "object_named_as": "Oana Cocarascu",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "King's College London, London, United Kingdom"
+    },
+    {
+        "object_named_as": "Antonio Rago",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Imperial College London, London, United Kingdom"
+    }
+]

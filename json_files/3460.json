@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Paolo Mori",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Consiglio Nazionale delle Ricerche, Istituto di Informatica e Telematica"
+    },
+    {
+        "object_named_as": "Ivan Visconti",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Salerno, Dipartimento di Ingegneria dell'Informazione ed Elettrica e Matematica applicata"
+    },
+    {
+        "object_named_as": "Stefano Bistarelli",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi Perugia, Dipartimento di Matematica e Informatica"
+    }
+]

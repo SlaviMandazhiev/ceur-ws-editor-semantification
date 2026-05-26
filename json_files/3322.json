@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Lise Stork",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Vrije Universiteit Amsterdam, De Boelelaan 1105, 1081 HV Amsterdam, Netherlands"
+    },
+    {
+        "object_named_as": "Katrien Beuls",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Université de Namur, rue de Bruxelles 61, 5000 Namur, Belgium"
+    },
+    {
+        "object_named_as": "Luc Steels",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Venice International University, Isola di San Servolo, 30133 Venezia VE, Italy "
+    }
+]

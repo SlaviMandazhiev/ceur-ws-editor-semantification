@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Aleksandr Ometov",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Tampere University, Tampere, Finland"
+    },
+    {
+        "object_named_as": "Jari Nurmi",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Tampere University, Tampere, Finland"
+    },
+    {
+        "object_named_as": "Elena Simona Lohan",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Minho, Guimarães, Portugal"
+    },
+    {
+        "object_named_as": "Joaquín Torres-Sospedra",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Minho, Guimarães, Portugal"
+    },
+    {
+        "object_named_as": "Heidi Kuusniemi",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Vaasa, Vaasa, Finland"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Angelo Ciaramella",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Naples “Parthenope”, Naples, Italy"
+    },
+    {
+        "object_named_as": "Corrado Mencar",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari Aldo Moro, Bari, Italy"
+    },
+    {
+        "object_named_as": "Susana Montes",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Oviedo, Oviedo, Spain"
+    },
+    {
+        "object_named_as": "Stefano Rovetta",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Genova, Genoa, Italy"
+    }
+]

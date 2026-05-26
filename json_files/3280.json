@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Sedat Akleylek",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Ondokuz Mayis University, Turkey and University of Tartu, Estonia"
+    },
+    {
+        "object_named_as": "Santiago Escobar",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Polytechnic University of Valencia, Spain "
+    },
+    {
+        "object_named_as": "Kazuhiro Ogata",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Japan Advanced Institute of Science and Technology, Japan "
+    },
+    {
+        "object_named_as": "Ayoub Otmani",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Rouen Normandie, France"
+    }
+]

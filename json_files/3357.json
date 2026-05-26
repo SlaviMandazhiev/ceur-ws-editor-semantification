@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Dmitry Ustalov",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Toloka, 11000 Belgrade, Serbia"
+    },
+    {
+        "object_named_as": "Saiph Savage",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Northeastern University, 02115 Boston, Massachusetts, USA "
+    },
+    {
+        "object_named_as": "Niels van Berkel",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Aalborg, 9220 Aalborg, Denmark "
+    },
+    {
+        "object_named_as": "Yang Liu",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of California Santa Cruz, 95064 Santa Cruz, California, USA "
+    },
+    {
+        "object_named_as": "Alisa Smirnova",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Toloka, 6005 Lucerne, Switzerland "
+    }
+]

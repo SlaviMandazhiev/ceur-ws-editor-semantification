@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "David Chaves-Fraga",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "KU Leuven, Belgium"
+    },
+    {
+        "object_named_as": "Anastasia Dimou",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "KU Leuven, Belgium"
+    },
+    {
+        "object_named_as": "Pieter Heyvaert",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Ghent University, Belgium"
+    },
+    {
+        "object_named_as": "Freddy Priyatna",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Olive AI, EEUU"
+    },
+    {
+        "object_named_as": "Juan Sequeda",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "data.world, EEUU"
+    }
+]

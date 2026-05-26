@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Mirko Bunse",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "TU Dortmund University, Lamarr Institute for Machine Learning and Artificial Intelligence"
+    },
+    {
+        "object_named_as": "Barbara Hammer",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bielefeld, CITEC Center of Excellence"
+    },
+    {
+        "object_named_as": "Georg Krempl",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Utrecht University, Faculty of Science"
+    },
+    {
+        "object_named_as": "Vincent Lemaire",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Orange Innovation"
+    },
+    {
+        "object_named_as": "Alaa Tharwat",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Hochschule Bielefeld"
+    },
+    {
+        "object_named_as": "Amal Saadallah",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "TU Dortmund University, Lamarr Institute for Machine Learning and Artificial Intelligence"
+    }
+]

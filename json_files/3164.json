@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Amir Pouran Ben Veyseh",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Oregon"
+    },
+    {
+        "object_named_as": "Franck Dernoncourt",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Adobe Research"
+    },
+    {
+        "object_named_as": "Thien Huu Nguyen",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Oregon"
+    },
+    {
+        "object_named_as": "Walter Chang",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Adobe Research"
+    },
+    {
+        "object_named_as": "Viet Dack Lai",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Oregon"
+    }
+]

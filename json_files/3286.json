@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Rossana Damiano",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Turin, Italy"
+    },
+    {
+        "object_named_as": "Stefano Ferilli",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari, Italy"
+    },
+    {
+        "object_named_as": "Manuel Striani",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Eastern Piedmont, Italy"
+    },
+    {
+        "object_named_as": "Gianmaria Silvello",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Padua, Italy"
+    }
+]

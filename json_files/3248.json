@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Hong Yuan",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Aerospace Information Research Institute,Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+        "object_named_as": "Dongyan Wei",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Aerospace Information Research Institute,Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+        "object_named_as": "Wen Li",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Aerospace Information Research Institute,Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+        "object_named_as": "Antoni Pérez-Navarro",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Internet Interdisciplinary Institute (IN3), Universitat Oberta de Catalunya, Castelldefels, Spain"
+    }
+]

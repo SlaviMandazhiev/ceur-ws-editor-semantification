@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Daniele Di Mitri",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "DIPF, Leibniz Institute for Research and Information in Education, 60323 Frankfurt, Germany"
+    },
+    {
+        "object_named_as": "Namrata Srivastava",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Department of Human Centred Computing, Monash University, Faculty of Information Technology, Clayton Campus, 20 Exhibition Walk, Clayton, VIC, 3800, Australia"
+    },
+    {
+        "object_named_as": "Roberto Martinez-Maldonado",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Department of Human Centred Computing, Monash University, Faculty of Information Technology, Clayton Campus, 20 Exhibition Walk, Clayton, VIC, 3800, Australia"
+    },
+    {
+        "object_named_as": "Mutlu Cukurova",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "UCL Knowledge Lab, UCL Institute of Education, University College London, 20 Bedford Way London, United Kingdom"
+    },
+    {
+        "object_named_as": "Daniel Spikol",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Department of Computer Science, University of Copenhagen, Universitetsparken 1 DK-2100 Copenhagen, Denmark"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Esma Aïmeur",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Université de Montréal, Department of Computer Science and Operations Research"
+    },
+    {
+        "object_named_as": "Nicolás E. Díaz Ferreyra",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Hamburg University of Technology, Institute of Software Security"
+    },
+    {
+        "object_named_as": "Hicham Hage",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Notre Dame University-Louaize, Computer Science Department"
+    }
+]

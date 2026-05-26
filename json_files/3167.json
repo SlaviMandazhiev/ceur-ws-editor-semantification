@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Robert Lorenz",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Augsburg, Department of Computer Science, Augsburg, Germany"
+    },
+    {
+        "object_named_as": "Jan Martijn van der Werf",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Utrecht University, Department of Information and Computer Science, Utrecht, the Netherlands "
+    },
+    {
+        "object_named_as": "Sebastiaan J. van Zelst",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Fraunhofer Institute for Applied Information Technology, Department of Data Science and Artificial Intelligence, Sankt Augustin, Germany "
+    }
+]

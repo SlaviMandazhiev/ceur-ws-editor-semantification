@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Umutcan Şimşek",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Semantic Technology Institute (STI), Innsbruck, Austria"
+    },
+    {
+        "object_named_as": "David Chaves-Fraga",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Politécnica de Madrid, Madrid, Spain "
+    },
+    {
+        "object_named_as": "Tassilo Pellegrini",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Applied Sciences, St. Poelten, AUstria "
+    },
+    {
+        "object_named_as": "Sahar Vahdat",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute for Applied Informatics, Dresden, Germany "
+    }
+]

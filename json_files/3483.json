@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Andrea De Lucia",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Software Engineering (SeSa) Lab --- Department of Computer Science, University of Salerno (Italy)"
+    },
+    {
+        "object_named_as": "Dario Di Nucci",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Software Engineering (SeSa) Lab --- Department of Computer Science, University of Salerno (Italy)"
+    },
+    {
+        "object_named_as": "Valeria Pontillo",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Software Engineering (SeSa) Lab --- Department of Computer Science, University of Salerno (Italy)"
+    },
+    {
+        "object_named_as": "Gilberto Recupito",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Software Engineering (SeSa) Lab --- Department of Computer Science, University of Salerno (Italy)"
+    }
+]

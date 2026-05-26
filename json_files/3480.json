@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Omar Alonso",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Amazon, Santa Clara, CA, USA"
+    },
+    {
+        "object_named_as": "Ricardo Baeza-Yates",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "The Institute for Experiential AI, Northeastern University, USA"
+    },
+    {
+        "object_named_as": "Tracy Holloway King",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Adobe Systems Inc, San Jose, CA, USA"
+    },
+    {
+        "object_named_as": "Gianmaria Silvello",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Padua, Department of Information Engineering, Via Gradenigo 6/b, Padua, Italy"
+    }
+]

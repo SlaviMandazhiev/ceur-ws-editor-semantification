@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Artur Boronat",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Leicester, School of Computing and Mathematical Sciences"
+    },
+    {
+        "object_named_as": "Antonio García-Domínguez",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Aston University, Aston Triangle"
+    },
+    {
+        "object_named_as": "Georg Hinkel",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Tecan Software Competence Center GmbH"
+    }
+]

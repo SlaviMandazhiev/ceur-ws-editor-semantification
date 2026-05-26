@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Roberta Calegari",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Alma Mater Studiorum—Università di Bologna, Alma Mater Research Institute for Human-Centered Artificial Intelligence"
+    },
+    {
+        "object_named_as": "Giovanni Ciatto",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Alma Mater Studiorum—Università di Bologna, Dipartimento di Informatica – Scienza e Ingegneria (DISI)"
+    },
+    {
+        "object_named_as": "Andrea Omicini",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Alma Mater Studiorum—Università di Bologna, Dipartimento di Informatica – Scienza e Ingegneria (DISI)"
+    }
+]

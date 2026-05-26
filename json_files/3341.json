@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Pascal Reuss",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "DFKI & University of Hildesheim (Germany)"
+    },
+    {
+        "object_named_as": "Viktor Eisenstadt",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "DFKI & University of Hildesheim (Germany)"
+    },
+    {
+        "object_named_as": "Jakob Schönborn",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "DFKI & University of Hildesheim (Germany)"
+    },
+    {
+        "object_named_as": "Jero Schäfer",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Goethe University of Frankfurt (Germany)"
+    }
+]

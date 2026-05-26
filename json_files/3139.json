@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Amy Van Looy",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Ghent University, Ghent, Belgium"
+    },
+    {
+        "object_named_as": "Barbara Weber",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of St. Gallen, St. Gallen, Switzerland "
+    },
+    {
+        "object_named_as": "Michael Rosemann",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Queensland University of Technology, Brisbane, Australia"
+    }
+]

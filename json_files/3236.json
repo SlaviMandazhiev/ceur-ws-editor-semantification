@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Sarah A. Gaggl",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Logic Programming and Argumentation Group, Technische Universität Dresden, Germany"
+    },
+    {
+        "object_named_as": "Jean-Guy Mailly",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Université Paris Cité, LIPADE, F-75006 Paris, France "
+    },
+    {
+        "object_named_as": "Matthias Thimm",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Artificial Intelligence Group, University of Hagen, Germany "
+    },
+    {
+        "object_named_as": "Johannes P. Wallner",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Software Technology, Graz University of Technology, Graz, Austria"
+    }
+]

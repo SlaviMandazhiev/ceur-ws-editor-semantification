@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Marwan Hassani",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Eindhoven University of Technology, Department of Mathematics and Computer Science"
+    },
+    {
+        "object_named_as": "Agnes Koschmider",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bayreuth, Faculty of Law, Business and Economics"
+    },
+    {
+        "object_named_as": "Marco Comuzzi",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Ulsan National Institute of Science and Technology, Department of Industrial Engineering"
+    },
+    {
+        "object_named_as": "Fabrizio Maria Maggi",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Faculty of Computer Science"
+    },
+    {
+        "object_named_as": "Luise Pufahl",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Technische Universitaet Berlin, Faculty of Electrical Engineering and Computer Science"
+    }
+]

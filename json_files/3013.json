@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Vadim Ermolayev",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Zaporizhzhia National University, Ukraine"
+    },
+    {
+        "object_named_as": "David Esteban",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "TECHFORCE, Spain"
+    },
+    {
+        "object_named_as": "Heinrich C. Mayr",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universität Klagenfurt, Austria"
+    },
+    {
+        "object_named_as": "Mykola Nikitchenko",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Taras Shevchenko National University of Kyiv, Ukraine"
+    },
+    {
+        "object_named_as": "Sergiy Bogomolov",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Newcastle University, United Kingdom"
+    },
+    {
+        "object_named_as": "Grygoriy Zholtkevych",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "V.N. Karazin Kharkiv National University, Ukraine"
+    },
+    {
+        "object_named_as": "Vitaliy Yakovyna",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Lviv Polytechnic National University, Ukraine, University of Warmia and Mazury in Olsztyn, Poland"
+    },
+    {
+        "object_named_as": "Aleksander Spivakovsky",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Kherson State University, Ukraine"
+    }
+]

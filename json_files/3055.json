@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Kostas Stefanidis",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Tampere University, Finland"
+    },
+    {
+        "object_named_as": "Praveen Rao",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Missouri-Kansas City, USA "
+    },
+    {
+        "object_named_as": "Haridimos Kondylakis",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "ICS-FORTH, Greece"
+    },
+    {
+        "object_named_as": "Georgia Troullinou",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "ICS-FORTH, Greece"
+    }
+]

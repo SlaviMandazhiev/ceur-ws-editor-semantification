@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Barbara Rita Barricelli",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Brescia, Department of Information Engineering"
+    },
+    {
+        "object_named_as": "Gerhard Fischer",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Colorado at Boulder, Center for LifeLong Learning & Design (L3D)"
+    },
+    {
+        "object_named_as": "Daniela Fogli",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Brescia, Department of Information Engineering"
+    },
+    {
+        "object_named_as": "Anders Mørch",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Oslo, Department of Education"
+    },
+    {
+        "object_named_as": "Antonio Piccinno",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari Aldo Moro, Department of Computer Science"
+    },
+    {
+        "object_named_as": "Stefano Valtolina",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Milan, Department of Computer Science"
+    }
+]

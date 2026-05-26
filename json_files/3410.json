@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Steven Moore",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Carnegie Mellon University, Pittsburgh, Pennsylvania, United States"
+    },
+    {
+        "object_named_as": "John Stamper",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Carnegie Mellon University, Pittsburgh, Pennsylvania, United States"
+    },
+    {
+        "object_named_as": "Paul Denny",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Auckland, Auckland, New Zealand "
+    },
+    {
+        "object_named_as": "Hassan Khosravi",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Queensland, St Lucia, Queensland, Austrailia "
+    },
+    {
+        "object_named_as": "Chris Brooks",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Michigan, Ann Arbor, Michigan, United States "
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Arnold E. Kiv",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Ben-Gurion University of the Negev"
+    },
+    {
+        "object_named_as": "Serhiy O. Semerikov",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Kryvyi Rih State Pedagogical University"
+    },
+    {
+        "object_named_as": "Vladimir N. Soloviev",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Kryvyi Rih State Pedagogical University"
+    },
+    {
+        "object_named_as": "Andrii M. Striuk",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Kryvyi Rih National University"
+    }
+]

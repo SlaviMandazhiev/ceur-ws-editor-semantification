@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Sylvia Melzer",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universität Hamburg, Centre for the Study of Manuscript Cultures"
+    },
+    {
+        "object_named_as": "Jost Gippert",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Goethe-Universität Frankfurt, Institut für Empirische Sprachwissenschaft"
+    },
+    {
+        "object_named_as": "Stefan Thiemann",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universität Hamburg, Center for Sustainable Research Data Management"
+    },
+    {
+        "object_named_as": "Hagen Peukert",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Universität Hamburg, Center for Sustainable Research Data Management"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Giorgio Maria Di Nunzio",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Padua, Department of Information Engineering"
+    },
+    {
+        "object_named_as": "Beatrice Portelli",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Udine., Department of Mathematics, Computer Science and Physics"
+    },
+    {
+        "object_named_as": "Domenico Redavid",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari A. Moro, Department of informatics"
+    },
+    {
+        "object_named_as": "Gianmaria Silvello",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Padua, Department of Information Engineering"
+    }
+]

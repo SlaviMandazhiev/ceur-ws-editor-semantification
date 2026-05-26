@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Tetiana Hovorushchenko",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Khmelnytskyi National University, Computer Engineering & Information Systems Department"
+    },
+    {
+        "object_named_as": "Oleg Savenko",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Khmelnytskyi National University, Computer Engineering & Information Systems Department"
+    },
+    {
+        "object_named_as": "Peter T. Popov",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "City University of London, Centre for Software Reliability"
+    },
+    {
+        "object_named_as": "Sergii Lysenko",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Khmelnytskyi National University, Computer Engineering & Information Systems Department"
+    }
+]

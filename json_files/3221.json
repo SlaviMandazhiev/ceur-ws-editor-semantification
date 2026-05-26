@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Desara Dushi",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Vrije Universiteit Brussel, Pleinlaan 2, 1050 Brussels, Belgium"
+    },
+    {
+        "object_named_as": "Francesca Naretto",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Scuola Normale Superiore, Piazza dei Cavalieri 7, 56126 Pisa, Italy"
+    },
+    {
+        "object_named_as": "Cecilia Panigutti",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "European Commission – Joint Research Centre, Via Enrico Fermi 2749, 21027 Ispra, Italy"
+    },
+    {
+        "object_named_as": "Francesca Pratesi",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Information Science and Technologies - National Research Council of Italy, via G. Moruzzi 1, 56124 Pisa, Italy"
+    }
+]

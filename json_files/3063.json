@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Pavel Shvaiko",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Trentino Digitale, Italy"
+    },
+    {
+        "object_named_as": "Jérôme Euzenat",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "INRIA & University Grenoble Alpes, France"
+    },
+    {
+        "object_named_as": "Ernesto Jiménez-Ruiz",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "City, Univeristy of London, UK & SIRIUS, Univeristy of Oslo, Norway"
+    },
+    {
+        "object_named_as": "Oktie Hassanzadeh",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "IBM Research, USA"
+    },
+    {
+        "object_named_as": "Cássia Trojahn",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "IRIT, France"
+    }
+]

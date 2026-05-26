@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Davinia Hernández-Leo",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Pompeu Fabra, Spain"
+    },
+    {
+        "object_named_as": "Elise Lavoué",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University Jean Moulin Lyon 3, France"
+    },
+    {
+        "object_named_as": "Miguel L. Bote-Lorenzo",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universidad de Valladolid, Spain"
+    },
+    {
+        "object_named_as": "Pedro J. Muñoz-Merino",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Carlos III de Madrid, Spain"
+    },
+    {
+        "object_named_as": "Daniel Spikol",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Copenhagen, Denmark"
+    }
+]

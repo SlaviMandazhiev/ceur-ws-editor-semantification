@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Ofer Arieli",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "The Academic College of Tel-Aviv, Department of Computer Science, Tel-Aviv, Israel"
+    },
+    {
+        "object_named_as": "Giovanni Casini",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "CNR, ISTI, Pisa, Italy"
+    },
+    {
+        "object_named_as": "Laura Giordano",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Università del Piemonte Orientale, Dipartimento di Scienze e Innovazione Tecnologica, Alessandria, Italy"
+    }
+]

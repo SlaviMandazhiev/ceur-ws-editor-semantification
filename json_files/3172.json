@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Fabrizio Balducci",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Bari 'A. Moro', Italy"
+    },
+    {
+        "object_named_as": "Bernardo Breve",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Salerno, Italy"
+    },
+    {
+        "object_named_as": "Federica Cena",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Torino, Italy"
+    },
+    {
+        "object_named_as": "Andrea Mattioli",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "CNR-ISTI, Italy"
+    },
+    {
+        "object_named_as": "Mehdi Rizvi",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico of Milan, Italy"
+    }
+]

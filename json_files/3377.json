@@ -1,0 +1,56 @@
+[
+    {
+        "object_named_as": "Jasmin Blanchette",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Vrije Universiteit Amsterdam"
+    },
+    {
+        "object_named_as": "James Davenport",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bath"
+    },
+    {
+        "object_named_as": "Peter Koepke",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universität Bonn"
+    },
+    {
+        "object_named_as": "Andrea Kohlhase",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Neu-Ulm University of Applied Sciences"
+    },
+    {
+        "object_named_as": "Michael Kohlhase",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "FAU Erlangen-Nürnberg"
+    },
+    {
+        "object_named_as": "Adam Naumowicz",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Białystok"
+    },
+    {
+        "object_named_as": "Dennis Müller",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "FAU Erlangen-Nürnberg"
+    },
+    {
+        "object_named_as": "Yasmine Sharoda",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "AWS Web Services"
+    },
+    {
+        "object_named_as": "Claudio Sacerdoti Coen",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "University of Bologna"
+    }
+]

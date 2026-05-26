@@ -1,0 +1,62 @@
+[
+    {
+        "object_named_as": "Riccardo De Benedictis",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "National Research Council (CNR), Italy"
+    },
+    {
+        "object_named_as": "Nicola Gatti",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Milano, Italy"
+    },
+    {
+        "object_named_as": "Marco Maratea",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Genova, Italy"
+    },
+    {
+        "object_named_as": "Andrea Micheli",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Bruno Kessler Foundation, Italy"
+    },
+    {
+        "object_named_as": "Aniello Murano",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Napoli Federico II, Italy"
+    },
+    {
+        "object_named_as": "Enrico Scala",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Brescia, Italy"
+    },
+    {
+        "object_named_as": "Luciano Serafini",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Bruno Kessler Foundation, Italy"
+    },
+    {
+        "object_named_as": "Ivan Serina",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "University of Brescia, Italy"
+    },
+    {
+        "object_named_as": "Alessandro Umbrico",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "National Research Council (CNR), Italy"
+    },
+    {
+        "object_named_as": "Mauro Vallati",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "University of Huddersfield, UK"
+    }
+]

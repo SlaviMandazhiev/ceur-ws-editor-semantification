@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Johannes Manner",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Bamberg, Distributed Systems Group"
+    },
+    {
+        "object_named_as": "Daniel Lübke",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Digital Solution Architecture"
+    },
+    {
+        "object_named_as": "Stephan Haarmann",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Potsdam, Business Process Technology, Hasso Plattner Institute"
+    },
+    {
+        "object_named_as": "Stefan Kolb",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "JabRef Research"
+    },
+    {
+        "object_named_as": "Nico Herzberg",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Campeleon GmbH"
+    }
+]

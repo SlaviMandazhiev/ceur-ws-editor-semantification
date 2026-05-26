@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Giovanni Sileno",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Amsterdam, Informatics Institute (IvI), Amsterdam, the Netherlands"
+    },
+    {
+        "object_named_as": "Christoph Becker",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Amsterdam, Institute of Advanced Study (IAS), Amsterdam, the Netherlands"
+    },
+    {
+        "object_named_as": "Nicola Lettieri",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "INAPP (National Institute for Public Policy Analysis), Rome, and University of Sannio, Benevento, Italy"
+    }
+]

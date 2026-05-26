@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Carla Teixeira Lopes",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Porto, INESC TEC"
+    },
+    {
+        "object_named_as": "Cristina Ribeiro",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Porto, INESC TEC"
+    },
+    {
+        "object_named_as": "Franco Niccolucci",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "PIN - Servizi Didattici e Scientifici per l’Università di Firenze scrl, Italy"
+    },
+    {
+        "object_named_as": "Irene Rodrigues",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Évora, NOVA LINCS"
+    },
+    {
+        "object_named_as": "Nuno Freire",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "ROSSIO Infrastructure, NOVA FCSH"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Salem Benferhat",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Université d'Artois and CNRS, France"
+    },
+    {
+        "object_named_as": "Giovanni Casini",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "CNR - ISTI, Italy "
+    },
+    {
+        "object_named_as": "Thomas Meyer",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Cape Town and CAIR, South Africa "
+    },
+    {
+        "object_named_as": "Andrea Tettamanzi",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Université Côte d'Azur, France "
+    }
+]

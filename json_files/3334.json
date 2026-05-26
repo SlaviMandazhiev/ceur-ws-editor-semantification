@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Bart Goethals",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Antwerp"
+    },
+    {
+        "object_named_as": "Céline Robardet",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "INSA Lyon"
+    },
+    {
+        "object_named_as": "Arno Siebes",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Utrecht University"
+    }
+]

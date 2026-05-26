@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Fabrizio d'Amore",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Sapienza - Università di Roma, Rome, Italy"
+    },
+    {
+        "object_named_as": "Maria Lapina",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "North-Caucasus Federal University, Stavropol, Russia "
+    },
+    {
+        "object_named_as": "Vyacheslav Zolotarev",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Reshetnev Siberian State University of Science and Technology, Krasnoyarsk, Russia"
+    }
+]

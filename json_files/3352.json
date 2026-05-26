@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Vojtěch Svátek",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Prague University of Economics and Business, Department of Information and Knowledge Engineering, Prague, Czech Republic"
+    },
+    {
+        "object_named_as": "Valentina Anita Carriero",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bologna, Department of Computer Science and Engineering, Bologna, Italy"
+    },
+    {
+        "object_named_as": "María Poveda Villalón",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Universidad Politécnica de Madrid, Department of Artificial Intelligence, Madrid, Spain"
+    },
+    {
+        "object_named_as": "Christian Kindermann",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Oslo, Department of Computer Science, Oslo, Norway"
+    },
+    {
+        "object_named_as": "Lu Zhou",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "TigerGraph, TigerGraph, Inc., San Diego, USA"
+    }
+]

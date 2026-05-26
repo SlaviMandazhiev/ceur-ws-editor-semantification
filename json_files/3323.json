@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Roberta Bevilacqua",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "IRCCS INRCA, Scientific Direction"
+    },
+    {
+        "object_named_as": "Laura Fiorini",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Florence, Department of Industrial Engineering"
+    },
+    {
+        "object_named_as": "Francesca Fracasso",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Cognitive Sciences and Technologies, National Research Council (ISTC-CNR)"
+    },
+    {
+        "object_named_as": "Alessandro Umbrico",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Cognitive Sciences and Technologies, National Research Council (ISTC-CNR)"
+    },
+    {
+        "object_named_as": "Rainer Wieching",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Siegen, Institute for New Media and Information Systems"
+    }
+]

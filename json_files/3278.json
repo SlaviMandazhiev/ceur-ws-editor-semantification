@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Allegra De Filippo",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Bologna, Department of Computer Science and Engineering, Bologna, Italy"
+    },
+    {
+        "object_named_as": "Michela Milano",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Bologna, Department of Computer Science and Engineering, Bologna, Italy"
+    },
+    {
+        "object_named_as": "Valentina Presutti",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Bologna, Department of Modern Languages, Literature, and Cultures, Bologna, Italy"
+    },
+    {
+        "object_named_as": "Alessandro Saffiotti",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Örebro, Department of AASS Cognitive Robotic Systems Laboratory, Örebro, Sweden"
+    }
+]

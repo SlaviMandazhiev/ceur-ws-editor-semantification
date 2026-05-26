@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Diego Calvanese",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Libera Università di Bolzano, Bolzano, Italy"
+    },
+    {
+        "object_named_as": "Claudia Diamantini",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Università Politecnica delle Marche, Ancona, Italy"
+    },
+    {
+        "object_named_as": "Guglielmo Faggioli",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Padova, Padova, Italy"
+    },
+    {
+        "object_named_as": "Nicola Ferro",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Padova, Padova, Italy"
+    },
+    {
+        "object_named_as": "Stefano Marchesin",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Padova, Padova, Italy"
+    },
+    {
+        "object_named_as": "Gianmaria Silvello",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi di Padova, Padova, Italy"
+    },
+    {
+        "object_named_as": "Letizia Tanca",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Milano, Milano, Italy"
+    }
+]

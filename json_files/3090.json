@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Radomir V. Bolgov",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "St. Petersburg State University, St. Petersburg, Russia"
+    },
+    {
+        "object_named_as": "Nikolay V. Borisov",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "St. Petersburg State University, St. Petersburg, Russia"
+    },
+    {
+        "object_named_as": "Andrei V. Chugunov",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "ITMO University, St. Petersburg, Russia"
+    },
+    {
+        "object_named_as": "Dmitry E. Prokudin",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "St. Petersburg State University, St. Petersburg, Russia"
+    },
+    {
+        "object_named_as": "Alexander E. Voiskounsky",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Lomonosov Moscow State University, Moscow, Russia"
+    },
+    {
+        "object_named_as": "Victor P. Zakharov",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "St. Petersburg State University, St. Petersburg, Russia"
+    }
+]

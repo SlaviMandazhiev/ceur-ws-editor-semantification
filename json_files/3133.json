@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Matti La Mela",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Uppsala University, Department of ALM, Sweden"
+    },
+    {
+        "object_named_as": "Fredrik Norén",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Umeå University, Humlab, Sweden"
+    },
+    {
+        "object_named_as": "Eero Hyvönen",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Aalto University, Semantic Computing Research Group (SeCo), Department of Computer Science, Finland"
+    }
+]

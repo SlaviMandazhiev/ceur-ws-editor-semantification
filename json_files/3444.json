@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Sergey Sosnovsky",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Utrecht University, Department of Information and Computing Sciences, Princetonplein 5, 3584 CC Utrecht, Netherlands"
+    },
+    {
+        "object_named_as": "Peter Brusilovsky",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Pittsburgh, School of Computing and Information, 135 North Bellefield Ave., Pittsburgh, PA 15260, USA"
+    },
+    {
+        "object_named_as": "Andrew Lan",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Massachusetts Amherst, College of Information and Computer Sciences, 140 Governors Dr., Amherst, MA 01003, USA"
+    }
+]

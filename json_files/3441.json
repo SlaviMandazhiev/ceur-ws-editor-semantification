@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Francesca Lagioia",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "European University Institute and University of Bologna, Italy"
+    },
+    {
+        "object_named_as": "Jack Mumford",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Liverpool, UK "
+    },
+    {
+        "object_named_as": "Daphne Odekerken",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Utrecht University, Netherlands "
+    },
+    {
+        "object_named_as": "Hannes Westermann",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Montreal, Canada"
+    }
+]

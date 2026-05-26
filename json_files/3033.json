@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Elisabetta Fersini",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Department of Informatics, Systems and Communication, University of Milano-Bicocca, Milan, Italy"
+    },
+    {
+        "object_named_as": "Marco Passarotti",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "CIRCSE Research Centre, Catholic University of the Sacred Heart, Milan, Italy"
+    },
+    {
+        "object_named_as": "Viviana Patti",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Computer Science Department, University of Turin, Turin, Italy"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Michael Sioutis",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Bamberg, Faculty of Information Systems and Applied Computer Sciences"
+    },
+    {
+        "object_named_as": "Zhiguo Long",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Southwest Jiaotong University, School of Computing and Artificial Intelligence"
+    },
+    {
+        "object_named_as": "John Stell",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Leeds, School of Computing"
+    },
+    {
+        "object_named_as": "Jochen Renz",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Australian National University, School of Computing, CECS"
+    }
+]

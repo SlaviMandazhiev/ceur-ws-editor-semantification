@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Brendan Flanagan",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Kyoto University, 606-8501 Kyoto, Japan"
+    },
+    {
+        "object_named_as": "Rwitajit Majumdar",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Kyoto University, 606-8501 Kyoto, Japan"
+    },
+    {
+        "object_named_as": "Huiyong Li",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Kyoto University, 606-8501 Kyoto, Japan"
+    },
+    {
+        "object_named_as": "Atsushi Shimada",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Kyushu University, 819-0395 Fukuoka, Japan"
+    },
+    {
+        "object_named_as": "Fumiya Okubo",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Kyushu University, 819-0395 Fukuoka, Japan"
+    },
+    {
+        "object_named_as": "Hiroaki Ogata",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Kyoto University, 606-8501 Kyoto, Japan"
+    }
+]

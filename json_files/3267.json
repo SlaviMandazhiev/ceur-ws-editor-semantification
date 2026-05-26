@@ -1,0 +1,68 @@
+[
+    {
+        "object_named_as": "Eleonora Mencarini",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "FBK, Italy"
+    },
+    {
+        "object_named_as": "Amon Rapp",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Torino, taly"
+    },
+    {
+        "object_named_as": "Ashley Colley",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Lapland, Finland"
+    },
+    {
+        "object_named_as": "Florian Daiber",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "DFKI, Germany"
+    },
+    {
+        "object_named_as": "Micheal D. Jones",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Brigham University, U.S.A."
+    },
+    {
+        "object_named_as": "Felix Kosmalla",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "DFKI, Germany"
+    },
+    {
+        "object_named_as": "Stephan Lukosch",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "University of Canterbury, New Zealand"
+    },
+    {
+        "object_named_as": "Jasmin Niess",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "University of St. Gallen, Switzerland"
+    },
+    {
+        "object_named_as": "Evangelos Niforatos",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "TU Delft, The Netherlands"
+    },
+    {
+        "object_named_as": "Paweł W. Woźniak",
+        "series_ordinal": 10,
+        "orcid_id": null,
+        "affiliation_string": "Chalmers University, Sweden"
+    },
+    {
+        "object_named_as": "Massimo Zancanaro",
+        "series_ordinal": 11,
+        "orcid_id": null,
+        "affiliation_string": "University of Trento, Italy"
+    }
+]

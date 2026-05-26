@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Michael Sioutis",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Montpellier, Laboratory of Computer Science, Robotics and Microelectronics of Montpellier, France"
+    },
+    {
+        "object_named_as": "Zhiguo Long",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Southwest Jiaotong University, School of Computing and Artificial Intelligence, Chengdu, China"
+    },
+    {
+        "object_named_as": "Jae Hee Lee",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Hamburg, Department of Informatics, Hamburg, Germany"
+    },
+    {
+        "object_named_as": "Mehul Bhatt",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Örebro University, School of Science and Technology, Örebro, Sweden"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Luca Geatti",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Udine, Department of Mathematics, Computer Science and Physics, Udine, Italy"
+    },
+    {
+        "object_named_as": "Guido Sciavicco",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Ferrara, Department of Mathematics and Computer Science, Ferrara, Italy"
+    },
+    {
+        "object_named_as": "Alessandro Umbrico",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "ISTC-CNR, National Research Council, Rome, Italy"
+    }
+]

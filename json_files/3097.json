@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Antoni Pérez-Navarro",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "*   Internet Interdisciplinary Institute (IN3), Universitat Oberta de Catalunya, Castelldefels, Spain"
+    },
+    {
+        "object_named_as": "Raúl Montoliu",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "***  Institute of New Imaging Technologies,\n   Jaume I University, Castellón, Spain"
+    },
+    {
+        "object_named_as": "Joaquín Torres-Sospedra",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "**** UBIK Geospatial Solutions S.L., Castellón, Spain\n***** ALGORITMI Research Center, Universidade do Minho, Guimarães, Portugal"
+    }
+]

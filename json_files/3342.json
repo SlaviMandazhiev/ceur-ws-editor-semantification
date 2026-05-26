@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Mehwish Alam",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "FIZ Karlsruhe, Leibniz Institute for Information Infrastructure, Germany"
+    },
+    {
+        "object_named_as": "Davide Buscaldi",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Université Paris 13, Labortoire d’Informatique Paris Nord (LIPN), Paris, France"
+    },
+    {
+        "object_named_as": "Michael Cochez",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "KRR, Vrije Universiteit Amsterdam, the Netherlands"
+    },
+    {
+        "object_named_as": "Francesco Osborne",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "KMI, Knowledge Media Institute, The Open University, UK"
+    },
+    {
+        "object_named_as": "Diego Reforgiato Recupero",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Cagliari, Department of Mathematics and Computer Science, Cagliari, Italy "
+    }
+]

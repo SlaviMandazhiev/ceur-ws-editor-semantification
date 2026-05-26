@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Gabriella Pasi",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Università di Milano-Bicocca, Dipartimento di Informatica, Sistemistica e Comunicazione"
+    },
+    {
+        "object_named_as": "Paolo Cremonesi",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Milano, Dipartimento di Elettronica, Informazione e Bioingegneria"
+    },
+    {
+        "object_named_as": "Salvatore Orlando",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Università Ca' Foscari Venezia, Dipartimento di Scienze Ambientali, Informatica e Statistica"
+    },
+    {
+        "object_named_as": "Markus Zanker",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Faculty of Computer Science"
+    },
+    {
+        "object_named_as": "David Massimo",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University of Klagenfurt, Institute of Artificial Intelligence and Cybersecurity"
+    },
+    {
+        "object_named_as": "Gloria Turati",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Politecnico di Milano, Dipartimento di Elettronica, Informazione e Bioingegneria"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "object_named_as": "José Hernández-Orallo",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Valencian Research Institute for Artificial Intelligence (VRAIN), Universitat Politècnica de València, Valencia, Spain"
+    },
+    {
+        "object_named_as": "Lucy Cheke",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Leverhulme Centre for the Future of Intelligence, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+        "object_named_as": "Joshua Tenenbaum",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Massachusetts Institute of Technology, Department of Brain and Cognitive Sciences, Cambridge, United States of America"
+    },
+    {
+        "object_named_as": "Tomer Ullman",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Harvard University, Department of Psychology, Cambridge, United States of America"
+    },
+    {
+        "object_named_as": "Fernando Martínez-Plumed",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Valencian Research Institute for Artificial Intelligence (VRAIN), Universitat Politècnica de València, Valencia, Spain"
+    },
+    {
+        "object_named_as": "Danaja Rutar",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Leverhulme Centre for the Future of Intelligence, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+        "object_named_as": "John Burden",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "Leverhulme Centre for the Future of Intelligence, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+        "object_named_as": "Ryan Burnell",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Leverhulme Centre for the Future of Intelligence, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+        "object_named_as": "Wout Schellaert",
+        "series_ordinal": 9,
+        "orcid_id": null,
+        "affiliation_string": "Valencian Research Institute for Artificial Intelligence (VRAIN), Universitat Politècnica de València, Valencia, Spain"
+    }
+]

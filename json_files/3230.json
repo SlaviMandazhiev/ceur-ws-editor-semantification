@@ -1,0 +1,26 @@
+[
+    {
+        "object_named_as": "Ingo Frommholz",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Wolverhampton, Wolverhampton, UK"
+    },
+    {
+        "object_named_as": "Philipp Mayr",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "GESIS - Leibniz-Institute for the Social Sciences, Cologne, Germany"
+    },
+    {
+        "object_named_as": "Guillaume Cabanac",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Toulouse, Toulouse, France"
+    },
+    {
+        "object_named_as": "Suzan Verberne",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Leiden, Leiden, The Netherlands"
+    }
+]

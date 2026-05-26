@@ -1,0 +1,44 @@
+[
+    {
+        "object_named_as": "Andreas Martin",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "FHNW University of Applied Sciences and Arts Northwestern Switzerland, School of Business, Olten, Switzerland"
+    },
+    {
+        "object_named_as": "Hans-Georg Fill",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Fribourg, Department of Informatics, Fribourg, Switzerland"
+    },
+    {
+        "object_named_as": "Aurona Gerber",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of the Western Cape, Department of Computer Science, Cape Town, Western Cape, South Africa"
+    },
+    {
+        "object_named_as": "Knut Hinkelmann",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "FHNW University of Applied Sciences and Arts Northwestern Switzerland, School of Business, Olten, Switzerland"
+    },
+    {
+        "object_named_as": "Doug Lenat",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Cycorp Inc., Austin, TX, USA"
+    },
+    {
+        "object_named_as": "Reinhard Stolle",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "Argo AI GmbH, München, Germany"
+    },
+    {
+        "object_named_as": "Frank van Harmelen",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "VU University, Department of Computer Science, Amsterdam, Netherlands"
+    }
+]

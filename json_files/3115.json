@@ -1,0 +1,38 @@
+[
+    {
+        "object_named_as": "Sérgio Guerreiro",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "INESC-ID and Instituto Superior Técnico / University of Lisbon, Portugal"
+    },
+    {
+        "object_named_as": "David Aveiro",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Madeira and Madeira Interactive Technologies Institute, Portugal"
+    },
+    {
+        "object_named_as": "Henderik A. Proper",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Luxembourg Institute of Science and Technology, Luxembourg"
+    },
+    {
+        "object_named_as": "Marné de Vries",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "University of Pretoria, South Africa"
+    },
+    {
+        "object_named_as": "Hans Mulder",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Antwerp Management School, Boogkeers 5, BE-2000, Antwerp, Belgium"
+    },
+    {
+        "object_named_as": "Martin Op't Land",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Antwerp, Antwerp Management School, Belgium"
+    }
+]

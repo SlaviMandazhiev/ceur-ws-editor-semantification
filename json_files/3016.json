@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Peter Bednar",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Portsmouth, UK & Lund University, Sweden"
+    },
+    {
+        "object_named_as": "Alexander Nolte",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Tartu, Estonia & Carnegie Mellon University, USA"
+    },
+    {
+        "object_named_as": "Mikko Rajanen",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "University of Oulu, Finland"
+    },
+    {
+        "object_named_as": "Anna Sigridur Islind",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Reykjavik University, Iceland"
+    },
+    {
+        "object_named_as": "Helena Vallo Hult",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "University West, Sweden & NU Hospital Group, Sweden"
+    },
+    {
+        "object_named_as": "Fatema Zaghloul",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Southampton, UK"
+    },
+    {
+        "object_named_as": "Aurelio Ravarini",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "LIUC Business School, Italy"
+    },
+    {
+        "object_named_as": "Alessio Maria Braccini",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "Università degli Studi della Tuscia, Italy"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Renate A. Schmidt",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "University of Manchester, UK"
+    },
+    {
+        "object_named_as": "Christoph Wernhard",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Potsdam, Germany"
+    },
+    {
+        "object_named_as": "Yizheng Zhao",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Nanjing University, China"
+    }
+]

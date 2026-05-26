@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Jesse Heyninck",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Open Universiteit, Department of Computer Science, Heerlen, the Netherlands"
+    },
+    {
+        "object_named_as": "Thomas Meyer",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "University of Cape Town, Knowledge Representation and Reasoning Group, Cape Town, South-Africa "
+    },
+    {
+        "object_named_as": "Marco Ragni",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Technische Universität Chemnitz, Chemnitz, Germany"
+    },
+    {
+        "object_named_as": "Matthias Thimm",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "FernUniversität in Hagen, Artificial Intelligence Group,  Hagen, Germany"
+    },
+    {
+        "object_named_as": "Gabriele Kern-Isberner",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "Technische Universität Dortmund, Information Engineering Group,  Dortmund, Germany"
+    }
+]

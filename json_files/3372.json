@@ -1,0 +1,20 @@
+[
+    {
+        "object_named_as": "Avram Eskenazi",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "Institute of Mathematics and Informatics at the Bulgarian Academy of Sciences, Bulgaria"
+    },
+    {
+        "object_named_as": "George Totkov",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Plovdiv University 'Paisii Hilendarski', Bulgaria"
+    },
+    {
+        "object_named_as": "Ivan Koychev",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Sofia University 'Saint Kliment Ohridski', Bulgaria"
+    }
+]

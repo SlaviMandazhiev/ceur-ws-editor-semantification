@@ -1,0 +1,50 @@
+[
+    {
+        "object_named_as": "Jan Vanthienen",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "KU Leuven, Belgium"
+    },
+    {
+        "object_named_as": "Tomáš Kliegr",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Prague University of Economics and Business, Czech Republic"
+    },
+    {
+        "object_named_as": "Paul Fodor",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "Stony Brook University, USA"
+    },
+    {
+        "object_named_as": "Davide Lanti",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Free University of Bozen-Bolzano, Italy"
+    },
+    {
+        "object_named_as": "Dörthe Arndt",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "TU Dresden, Germany"
+    },
+    {
+        "object_named_as": "Egor V. Kostylev",
+        "series_ordinal": 6,
+        "orcid_id": null,
+        "affiliation_string": "University of Oslo, Norway"
+    },
+    {
+        "object_named_as": "Theodoros Mitsikas",
+        "series_ordinal": 7,
+        "orcid_id": null,
+        "affiliation_string": "National Technical University of Athens, Greece"
+    },
+    {
+        "object_named_as": "Ahmet Soylu",
+        "series_ordinal": 8,
+        "orcid_id": null,
+        "affiliation_string": "OsloMet - Oslo Metropolitan University, Norway"
+    }
+]

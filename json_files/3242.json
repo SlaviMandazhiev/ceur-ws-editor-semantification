@@ -1,0 +1,32 @@
+[
+    {
+        "object_named_as": "Christoph Beierle",
+        "series_ordinal": 1,
+        "orcid_id": null,
+        "affiliation_string": "FernUniversität in Hagen, Germany"
+    },
+    {
+        "object_named_as": "Marco Ragni",
+        "series_ordinal": 2,
+        "orcid_id": null,
+        "affiliation_string": "Technische Universität Chemnitz, Germany"
+    },
+    {
+        "object_named_as": "Kai Sauerwald",
+        "series_ordinal": 3,
+        "orcid_id": null,
+        "affiliation_string": "FernUniversität in Hagen, Germany"
+    },
+    {
+        "object_named_as": "Frieder Stolzenburg",
+        "series_ordinal": 4,
+        "orcid_id": null,
+        "affiliation_string": "Hochschule Harz, Germany"
+    },
+    {
+        "object_named_as": "Matthias Thimm",
+        "series_ordinal": 5,
+        "orcid_id": null,
+        "affiliation_string": "FernUniversität in Hagen, Germany"
+    }
+]
